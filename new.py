@@ -1,29 +1,76 @@
+#coding=gbk
 import re
 import os
 import urllib.parse
-getName =input("è¯·è¾“å…¥éœ€è¦åˆ›å»ºçš„å·¥ç¨‹åå­—");
-oriName =getName;
-splitres = getName.split('.',1);
-idx =splitres[0].zfill(3);
-getName ="["+idx+"]__"+splitres[1].replace(' ','_')
-print(getName)
-pathname =os.getcwd()+'/'+getName
-if os.path.isdir(pathname):
+import shutil
+
+#duqu shuju 
+
+class seqNode:
+    def __init__(self):
+        self.ID = ''
+        self.name= ""
+        self.ch_name = ""
+    def show(self):
+        print(self.ID+" "+self.ch_name+' '+self.name+" ")
+        print('\n')
+    def geturl(self):
+        return "https://leetcode-cn.com/problems/" + self.name 
+
+data ={}
+
+def readData(data):
+    l = []
+    with open('abc.txt', 'r') as f:
+        l =f.readlines()
+        for i in l:
+            i.rstrip()
+            ll = i.split('|')
+            node = seqNode()
+            node.ID = ll[0]
+            node.name = ll[1]
+            node.ch_name = ll[2]
+            #node.show()
+            data[node.ID.strip()] =  node
+
+def getdirname(idx):
+    idx =int(idx)
+    idx = int(idx/100)
+    pathname = str(idx*100)+"~"+str((idx+1)*100)
+    return pathname
+
+
+readData(data)
+cwd = os.getcwd()
+
+
+
+getName =input("ÇëÊäÈëÌâºÅ")
+getName = getName.strip()
+title = data[getName].ch_name.replace(' ','_').rstrip()
+
+idxDirName = getdirname(getName)
+print(idxDirName)
+dirname = os.path.join(cwd,idxDirName)
+newpath = '['+ getName.zfill(4) + ']' +title
+dirname = os.path.join(dirname,newpath)
+
+
+if os.path.isdir(dirname):
    print("the dir has excited")
 else :
-   print("å°†åœ¨å»ºç«‹ä»¥ä¸‹ç›®å½•ï¼š")
-   print(pathname)
-   os.mkdir(pathname)
-   filename =pathname+'/'+getName+'.md'
-   F =open(filename,'x')
-   F.write("![](https://github.com/Sologala/SomeThings/blob/master/face.jpg?raw=true)\n")
-   F.write("/*\n")
-   F.write("    Sologala   @github    https://github.com/Sologala/LeetCode.git\n")
-   F.write("    LeetCode   ")
-   F.write(oriName)
-   F.write("\n*/\n")
-   encodeName =urllib.parse.quote(getName);
-   pic =	"[](https://github.com/Sologala/LeetCode/blob/master/"+encodeName+"/"+encodeName+".assets/0.png?raw=true)\n"
-   F.write(pic)
-   F.write("\n\n\n##**æ€è·¯ï¼š** \n\n### **ac_code**\n```c\n\n```")
-   F.close()
+    print("½«ÔÚ½¨Á¢ÒÔÏÂÄ¿Â¼£º")
+    print(dirname)
+    os.mkdir(dirname)
+    filename = os.path.join(dirname,title+'.md')
+    print(filename)
+    F =open(filename,'x')
+    F.write("![](https://github.com/Sologala/SomeThings/blob/master/face.jpg?raw=true)\n")
+    F.write("/*\n")
+    F.write("    Sologala   @github    https://github.com/Sologala/LeetCode.git\n")
+    F.write("    LeetCode   ")
+    F.write(data[getName].ch_name +'   |    ' +data[getName].name+'\n')
+    F.write("\n*/\n")
+    F.write("\n\n\n##**Ë¼Â·£º** \n\n### **ac_code**\n```c\n\n```")
+    F.close()
+    os.system("typora "+filename)
