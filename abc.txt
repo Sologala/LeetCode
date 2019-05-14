@@ -1,852 +1,852 @@
-1 | two-sum|Á½ÊıÖ®ºÍ
-2 | add-two-numbers|Á½ÊıÏà¼Ó
-3 | longest-substring-without-repeating-characters|ÎŞÖØ¸´×Ö·ûµÄ×î³¤×Ó´®
-4 | median-of-two-sorted-arrays|Ñ°ÕÒÁ½¸öÓĞĞòÊı×éµÄÖĞÎ»Êı
-5 | longest-palindromic-substring|×î³¤»ØÎÄ×Ó´®
-6 | zigzag-conversion|Z ×ÖĞÎ±ä»»
-7 | reverse-integer|ÕûÊı·´×ª
-8 | string-to-integer-atoi|×Ö·û´®×ª»»ÕûÊı (atoi)
-9 | palindrome-number|»ØÎÄÊı
-10 | regular-expression-matching|ÕıÔò±í´ïÊ½Æ¥Åä
-11 | container-with-most-water|Ê¢×î¶àË®µÄÈİÆ÷
-12 | integer-to-roman|ÕûÊı×ªÂŞÂíÊı×Ö
-13 | roman-to-integer|ÂŞÂíÊı×Ö×ªÕûÊı
-14 | longest-common-prefix|×î³¤¹«¹²Ç°×º
-15 | 3sum|ÈıÊıÖ®ºÍ
-16 | 3sum-closest|×î½Ó½üµÄÈıÊıÖ®ºÍ
-17 | letter-combinations-of-a-phone-number|µç»°ºÅÂëµÄ×ÖÄ¸×éºÏ
-18 | 4sum|ËÄÊıÖ®ºÍ
-19 | remove-nth-node-from-end-of-list|É¾³ıÁ´±íµÄµ¹ÊıµÚN¸ö½Úµã
-20 | valid-parentheses|ÓĞĞ§µÄÀ¨ºÅ
-21 | merge-two-sorted-lists|ºÏ²¢Á½¸öÓĞĞòÁ´±í
-22 | generate-parentheses|À¨ºÅÉú³É
-23 | merge-k-sorted-lists|ºÏ²¢K¸öÅÅĞòÁ´±í
-24 | swap-nodes-in-pairs|Á½Á½½»»»Á´±íÖĞµÄ½Úµã
-25 | reverse-nodes-in-k-group|k¸öÒ»×é·­×ªÁ´±í
-26 | remove-duplicates-from-sorted-array|É¾³ıÅÅĞòÊı×éÖĞµÄÖØ¸´Ïî
-27 | remove-element|ÒÆ³ıÔªËØ
-28 | implement-strstr|ÊµÏÖstrStr()
-29 | divide-two-integers|Á½ÊıÏà³ı
-30 | substring-with-concatenation-of-all-words|´®ÁªËùÓĞµ¥´ÊµÄ×Ó´®
-31 | next-permutation|ÏÂÒ»¸öÅÅÁĞ
-32 | longest-valid-parentheses|×î³¤ÓĞĞ§À¨ºÅ
-33 | search-in-rotated-sorted-array|ËÑË÷Ğı×ªÅÅĞòÊı×é
-34 | find-first-and-last-position-of-element-in-sorted-array|ÔÚÅÅĞòÊı×éÖĞ²éÕÒÔªËØµÄµÚÒ»¸öºÍ×îºóÒ»¸öÎ»ÖÃ
-35 | search-insert-position|ËÑË÷²åÈëÎ»ÖÃ
-36 | valid-sudoku|ÓĞĞ§µÄÊı¶À
-37 | sudoku-solver|½âÊı¶À
-38 | count-and-say|±¨Êı
-39 | combination-sum|×éºÏ×ÜºÍ
-40 | combination-sum-ii|×éºÏ×ÜºÍ II
-41 | first-missing-positive|È±Ê§µÄµÚÒ»¸öÕıÊı
-42 | trapping-rain-water|½ÓÓêË®
-43 | multiply-strings|×Ö·û´®Ïà³Ë
-44 | wildcard-matching|Í¨Åä·ûÆ¥Åä
-45 | jump-game-ii|ÌøÔ¾ÓÎÏ· II
-46 | permutations|È«ÅÅÁĞ
-47 | permutations-ii|È«ÅÅÁĞ II
-48 | rotate-image|Ğı×ªÍ¼Ïñ
-49 | group-anagrams|×ÖÄ¸ÒìÎ»´Ê·Ö×é
+1 | two-sum|ä¸¤æ•°ä¹‹å’Œ
+2 | add-two-numbers|ä¸¤æ•°ç›¸åŠ 
+3 | longest-substring-without-repeating-characters|æ— é‡å¤å­—ç¬¦çš„æœ€é•¿å­ä¸²
+4 | median-of-two-sorted-arrays|å¯»æ‰¾ä¸¤ä¸ªæœ‰åºæ•°ç»„çš„ä¸­ä½æ•°
+5 | longest-palindromic-substring|æœ€é•¿å›æ–‡å­ä¸²
+6 | zigzag-conversion|Z å­—å½¢å˜æ¢
+7 | reverse-integer|æ•´æ•°åè½¬
+8 | string-to-integer-atoi|å­—ç¬¦ä¸²è½¬æ¢æ•´æ•° (atoi)
+9 | palindrome-number|å›æ–‡æ•°
+10 | regular-expression-matching|æ­£åˆ™è¡¨è¾¾å¼åŒ¹é…
+11 | container-with-most-water|ç››æœ€å¤šæ°´çš„å®¹å™¨
+12 | integer-to-roman|æ•´æ•°è½¬ç½—é©¬æ•°å­—
+13 | roman-to-integer|ç½—é©¬æ•°å­—è½¬æ•´æ•°
+14 | longest-common-prefix|æœ€é•¿å…¬å…±å‰ç¼€
+15 | 3sum|ä¸‰æ•°ä¹‹å’Œ
+16 | 3sum-closest|æœ€æ¥è¿‘çš„ä¸‰æ•°ä¹‹å’Œ
+17 | letter-combinations-of-a-phone-number|ç”µè¯å·ç çš„å­—æ¯ç»„åˆ
+18 | 4sum|å››æ•°ä¹‹å’Œ
+19 | remove-nth-node-from-end-of-list|åˆ é™¤é“¾è¡¨çš„å€’æ•°ç¬¬Nä¸ªèŠ‚ç‚¹
+20 | valid-parentheses|æœ‰æ•ˆçš„æ‹¬å·
+21 | merge-two-sorted-lists|åˆå¹¶ä¸¤ä¸ªæœ‰åºé“¾è¡¨
+22 | generate-parentheses|æ‹¬å·ç”Ÿæˆ
+23 | merge-k-sorted-lists|åˆå¹¶Kä¸ªæ’åºé“¾è¡¨
+24 | swap-nodes-in-pairs|ä¸¤ä¸¤äº¤æ¢é“¾è¡¨ä¸­çš„èŠ‚ç‚¹
+25 | reverse-nodes-in-k-group|kä¸ªä¸€ç»„ç¿»è½¬é“¾è¡¨
+26 | remove-duplicates-from-sorted-array|åˆ é™¤æ’åºæ•°ç»„ä¸­çš„é‡å¤é¡¹
+27 | remove-element|ç§»é™¤å…ƒç´ 
+28 | implement-strstr|å®ç°strStr()
+29 | divide-two-integers|ä¸¤æ•°ç›¸é™¤
+30 | substring-with-concatenation-of-all-words|ä¸²è”æ‰€æœ‰å•è¯çš„å­ä¸²
+31 | next-permutation|ä¸‹ä¸€ä¸ªæ’åˆ—
+32 | longest-valid-parentheses|æœ€é•¿æœ‰æ•ˆæ‹¬å·
+33 | search-in-rotated-sorted-array|æœç´¢æ—‹è½¬æ’åºæ•°ç»„
+34 | find-first-and-last-position-of-element-in-sorted-array|åœ¨æ’åºæ•°ç»„ä¸­æŸ¥æ‰¾å…ƒç´ çš„ç¬¬ä¸€ä¸ªå’Œæœ€åä¸€ä¸ªä½ç½®
+35 | search-insert-position|æœç´¢æ’å…¥ä½ç½®
+36 | valid-sudoku|æœ‰æ•ˆçš„æ•°ç‹¬
+37 | sudoku-solver|è§£æ•°ç‹¬
+38 | count-and-say|æŠ¥æ•°
+39 | combination-sum|ç»„åˆæ€»å’Œ
+40 | combination-sum-ii|ç»„åˆæ€»å’Œ II
+41 | first-missing-positive|ç¼ºå¤±çš„ç¬¬ä¸€ä¸ªæ­£æ•°
+42 | trapping-rain-water|æ¥é›¨æ°´
+43 | multiply-strings|å­—ç¬¦ä¸²ç›¸ä¹˜
+44 | wildcard-matching|é€šé…ç¬¦åŒ¹é…
+45 | jump-game-ii|è·³è·ƒæ¸¸æˆ II
+46 | permutations|å…¨æ’åˆ—
+47 | permutations-ii|å…¨æ’åˆ— II
+48 | rotate-image|æ—‹è½¬å›¾åƒ
+49 | group-anagrams|å­—æ¯å¼‚ä½è¯åˆ†ç»„
 50 | powx-n|Pow(x, n)
-51 | n-queens|N»Êºó
-52 | n-queens-ii|N»Êºó II
-53 | maximum-subarray|×î´ó×ÓĞòºÍ
-54 | spiral-matrix|ÂİĞı¾ØÕó
-55 | jump-game|ÌøÔ¾ÓÎÏ·
-56 | merge-intervals|ºÏ²¢Çø¼ä
-57 | insert-interval|²åÈëÇø¼ä
-58 | length-of-last-word|×îºóÒ»¸öµ¥´ÊµÄ³¤¶È
-59 | spiral-matrix-ii|ÂİĞı¾ØÕó II
-60 | permutation-sequence|µÚk¸öÅÅÁĞ
-61 | rotate-list|Ğı×ªÁ´±í
-62 | unique-paths|²»Í¬Â·¾¶
-63 | unique-paths-ii|²»Í¬Â·¾¶ II
-64 | minimum-path-sum|×îĞ¡Â·¾¶ºÍ
-65 | valid-number|ÓĞĞ§Êı×Ö
-66 | plus-one|¼ÓÒ»
-67 | add-binary|¶ş½øÖÆÇóºÍ
-68 | text-justification|ÎÄ±¾×óÓÒ¶ÔÆë
-69 | sqrtx|x µÄÆ½·½¸ù
-70 | climbing-stairs|ÅÀÂ¥Ìİ
-71 | simplify-path|¼ò»¯Â·¾¶
-72 | edit-distance|±à¼­¾àÀë
-73 | set-matrix-zeroes|¾ØÕóÖÃÁã
-74 | search-a-2d-matrix|ËÑË÷¶şÎ¬¾ØÕó
-75 | sort-colors|ÑÕÉ«·ÖÀà
-76 | minimum-window-substring|×îĞ¡¸²¸Ç×Ó´®
-77 | combinations|×éºÏ
-78 | subsets|×Ó¼¯
-79 | word-search|µ¥´ÊËÑË÷
-80 | remove-duplicates-from-sorted-array-ii|É¾³ıÅÅĞòÊı×éÖĞµÄÖØ¸´Ïî II
-81 | search-in-rotated-sorted-array-ii|ËÑË÷Ğı×ªÅÅĞòÊı×é II
-82 | remove-duplicates-from-sorted-list-ii|É¾³ıÅÅĞòÁ´±íÖĞµÄÖØ¸´ÔªËØ II
-83 | remove-duplicates-from-sorted-list|É¾³ıÅÅĞòÁ´±íÖĞµÄÖØ¸´ÔªËØ
-84 | largest-rectangle-in-histogram|Öù×´Í¼ÖĞ×î´óµÄ¾ØĞÎ
-85 | maximal-rectangle|×î´ó¾ØĞÎ
-86 | partition-list|·Ö¸ôÁ´±í
-87 | scramble-string|ÈÅÂÒ×Ö·û´®
-88 | merge-sorted-array|ºÏ²¢Á½¸öÓĞĞòÊı×é
-89 | gray-code|¸ñÀ×±àÂë
-90 | subsets-ii|×Ó¼¯ II
-91 | decode-ways|½âÂë·½·¨
-92 | reverse-linked-list-ii|·´×ªÁ´±í II
-93 | restore-ip-addresses|¸´Ô­IPµØÖ·
-94 | binary-tree-inorder-traversal|¶ş²æÊ÷µÄÖĞĞò±éÀú
-95 | unique-binary-search-trees-ii|²»Í¬µÄ¶ş²æËÑË÷Ê÷ II
-96 | unique-binary-search-trees|²»Í¬µÄ¶ş²æËÑË÷Ê÷
-97 | interleaving-string|½»´í×Ö·û´®
-98 | validate-binary-search-tree|ÑéÖ¤¶ş²æËÑË÷Ê÷
-99 | recover-binary-search-tree|»Ö¸´¶ş²æËÑË÷Ê÷
-100 | same-tree|ÏàÍ¬µÄÊ÷
-101 | symmetric-tree|¶Ô³Æ¶ş²æÊ÷
-102 | binary-tree-level-order-traversal|¶ş²æÊ÷µÄ²ã´Î±éÀú
-103 | binary-tree-zigzag-level-order-traversal|¶ş²æÊ÷µÄ¾â³İĞÎ²ã´Î±éÀú
-104 | maximum-depth-of-binary-tree|¶ş²æÊ÷µÄ×î´óÉî¶È
-105 | construct-binary-tree-from-preorder-and-inorder-traversal|´ÓÇ°ĞòÓëÖĞĞò±éÀúĞòÁĞ¹¹Ôì¶ş²æÊ÷
-106 | construct-binary-tree-from-inorder-and-postorder-traversal|´ÓÖĞĞòÓëºóĞò±éÀúĞòÁĞ¹¹Ôì¶ş²æÊ÷
-107 | binary-tree-level-order-traversal-ii|¶ş²æÊ÷µÄ²ã´Î±éÀú II
-108 | convert-sorted-array-to-binary-search-tree|½«ÓĞĞòÊı×é×ª»»Îª¶ş²æËÑË÷Ê÷
-109 | convert-sorted-list-to-binary-search-tree|ÓĞĞòÁ´±í×ª»»¶ş²æËÑË÷Ê÷
-110 | balanced-binary-tree|Æ½ºâ¶ş²æÊ÷
-111 | minimum-depth-of-binary-tree|¶ş²æÊ÷µÄ×îĞ¡Éî¶È
-112 | path-sum|Â·¾¶×ÜºÍ
-113 | path-sum-ii|Â·¾¶×ÜºÍ II
-114 | flatten-binary-tree-to-linked-list|¶ş²æÊ÷Õ¹¿ªÎªÁ´±í
-115 | distinct-subsequences|²»Í¬µÄ×ÓĞòÁĞ
-116 | populating-next-right-pointers-in-each-node|Ìî³äÃ¿¸ö½ÚµãµÄÏÂÒ»¸öÓÒ²à½ÚµãÖ¸Õë
-117 | populating-next-right-pointers-in-each-node-ii|Ìî³äÃ¿¸ö½ÚµãµÄÏÂÒ»¸öÓÒ²à½ÚµãÖ¸Õë II
-118 | pascals-triangle|Ñî»ÔÈı½Ç
-119 | pascals-triangle-ii|Ñî»ÔÈı½Ç II
-120 | triangle|Èı½ÇĞÎ×îĞ¡Â·¾¶ºÍ
-121 | best-time-to-buy-and-sell-stock|ÂòÂô¹ÉÆ±µÄ×î¼ÑÊ±»ú
-122 | best-time-to-buy-and-sell-stock-ii|ÂòÂô¹ÉÆ±µÄ×î¼ÑÊ±»ú II
-123 | best-time-to-buy-and-sell-stock-iii|ÂòÂô¹ÉÆ±µÄ×î¼ÑÊ±»ú III
-124 | binary-tree-maximum-path-sum|¶ş²æÊ÷ÖĞµÄ×î´óÂ·¾¶ºÍ
-125 | valid-palindrome|ÑéÖ¤»ØÎÄ´®
-126 | word-ladder-ii|µ¥´Ê½ÓÁú II
-127 | word-ladder|µ¥´Ê½ÓÁú
-128 | longest-consecutive-sequence|×î³¤Á¬ĞøĞòÁĞ
-129 | sum-root-to-leaf-numbers|Çó¸ùµ½Ò¶×Ó½ÚµãÊı×ÖÖ®ºÍ
-130 | surrounded-regions|±»Î§ÈÆµÄÇøÓò
-131 | palindrome-partitioning|·Ö¸î»ØÎÄ´®
-132 | palindrome-partitioning-ii|·Ö¸î»ØÎÄ´® II
-133 | clone-graph|¿ËÂ¡Í¼
-134 | gas-station|¼ÓÓÍÕ¾
-135 | candy|·Ö·¢ÌÇ¹û
-136 | single-number|Ö»³öÏÖÒ»´ÎµÄÊı×Ö
-137 | single-number-ii|Ö»³öÏÖÒ»´ÎµÄÊı×Ö II
-138 | copy-list-with-random-pointer|¸´ÖÆ´øËæ»úÖ¸ÕëµÄÁ´±í
-139 | word-break|µ¥´Ê²ğ·Ö
-140 | word-break-ii|µ¥´Ê²ğ·Ö II
-141 | linked-list-cycle|»·ĞÎÁ´±í
-142 | linked-list-cycle-ii|»·ĞÎÁ´±í II
-143 | reorder-list|ÖØÅÅÁ´±í
-144 | binary-tree-preorder-traversal|¶ş²æÊ÷µÄÇ°Ğò±éÀú
-145 | binary-tree-postorder-traversal|¶ş²æÊ÷µÄºóĞò±éÀú
-146 | lru-cache|LRU»º´æ»úÖÆ
-147 | insertion-sort-list|¶ÔÁ´±í½øĞĞ²åÈëÅÅĞò
-148 | sort-list|ÅÅĞòÁ´±í
-149 | max-points-on-a-line|Ö±ÏßÉÏ×î¶àµÄµãÊı
-150 | evaluate-reverse-polish-notation|Äæ²¨À¼±í´ïÊ½ÇóÖµ
-151 | reverse-words-in-a-string|·­×ª×Ö·û´®ÀïµÄµ¥´Ê
-152 | maximum-product-subarray|³Ë»ı×î´ó×ÓĞòÁĞ
-153 | find-minimum-in-rotated-sorted-array|Ñ°ÕÒĞı×ªÅÅĞòÊı×éÖĞµÄ×îĞ¡Öµ
-154 | find-minimum-in-rotated-sorted-array-ii|Ñ°ÕÒĞı×ªÅÅĞòÊı×éÖĞµÄ×îĞ¡Öµ II
-155 | min-stack|×îĞ¡Õ»
-160 | intersection-of-two-linked-lists|Ïà½»Á´±í
-162 | find-peak-element|Ñ°ÕÒ·åÖµ
-164 | maximum-gap|×î´ó¼ä¾à
-165 | compare-version-numbers|±È½Ï°æ±¾ºÅ
-166 | fraction-to-recurring-decimal|·ÖÊıµ½Ğ¡Êı
-167 | two-sum-ii-input-array-is-sorted|Á½ÊıÖ®ºÍ II - ÊäÈëÓĞĞòÊı×é
-168 | excel-sheet-column-title|Excel±íÁĞÃû³Æ
-169 | majority-element|ÇóÖÚÊı
-171 | excel-sheet-column-number|Excel±íÁĞĞòºÅ
-172 | factorial-trailing-zeroes|½×³ËºóµÄÁã
-173 | binary-search-tree-iterator|¶ş²æËÑË÷Ê÷µü´úÆ÷
-174 | dungeon-game|µØÏÂ³ÇÓÎÏ·
-175 | combine-two-tables|×éºÏÁ½¸ö±í
-176 | second-highest-salary|µÚ¶ş¸ßµÄĞ½Ë®
-177 | nth-highest-salary|µÚN¸ßµÄĞ½Ë®
-178 | rank-scores|·ÖÊıÅÅÃû
-179 | largest-number|×î´óÊı
-180 | consecutive-numbers|Á¬Ğø³öÏÖµÄÊı×Ö
-181 | employees-earning-more-than-their-managers|³¬¹ı¾­ÀíÊÕÈëµÄÔ±¹¤
-182 | duplicate-emails|²éÕÒÖØ¸´µÄµç×ÓÓÊÏä
-183 | customers-who-never-order|´Ó²»¶©¹ºµÄ¿Í»§
-184 | department-highest-salary|²¿ÃÅ¹¤×Ê×î¸ßµÄÔ±¹¤
-185 | department-top-three-salaries|²¿ÃÅ¹¤×ÊÇ°Èı¸ßµÄÔ±¹¤
-187 | repeated-dna-sequences|ÖØ¸´µÄDNAĞòÁĞ
-188 | best-time-to-buy-and-sell-stock-iv|ÂòÂô¹ÉÆ±µÄ×î¼ÑÊ±»ú IV
-189 | rotate-array|Ğı×ªÊı×é
-190 | reverse-bits|µßµ¹¶ş½øÖÆÎ»
-191 | number-of-1-bits|Î»1µÄ¸öÊı
-192 | word-frequency|Í³¼Æ´ÊÆµ
-193 | valid-phone-numbers|ÓĞĞ§µç»°ºÅÂë
-194 | transpose-file|×ªÖÃÎÄ¼ş
-195 | tenth-line|µÚÊ®ĞĞ
-196 | delete-duplicate-emails|É¾³ıÖØ¸´µÄµç×ÓÓÊÏä
-197 | rising-temperature|ÉÏÉıµÄÎÂ¶È
-198 | house-robber|´ò¼Ò½ÙÉá
-199 | binary-tree-right-side-view|¶ş²æÊ÷µÄÓÒÊÓÍ¼
-200 | number-of-islands|µºÓìµÄ¸öÊı
-201 | bitwise-and-of-numbers-range|Êı×Ö·¶Î§°´Î»Óë
-202 | happy-number|¿ìÀÖÊı
-203 | remove-linked-list-elements|ÒÆ³ıÁ´±íÔªËØ
-204 | count-primes|¼ÆÊıÖÊÊı
-205 | isomorphic-strings|Í¬¹¹×Ö·û´®
-206 | reverse-linked-list|·´×ªÁ´±í
-207 | course-schedule|¿Î³Ì±í
-208 | implement-trie-prefix-tree|ÊµÏÖ Trie (Ç°×ºÊ÷)
-209 | minimum-size-subarray-sum|³¤¶È×îĞ¡µÄ×ÓÊı×é
-210 | course-schedule-ii|¿Î³Ì±í II
-211 | add-and-search-word-data-structure-design|Ìí¼ÓÓëËÑË÷µ¥´Ê - Êı¾İ½á¹¹Éè¼Æ
-212 | word-search-ii|µ¥´ÊËÑË÷ II
-213 | house-robber-ii|´ò¼Ò½ÙÉá II
-214 | shortest-palindrome|×î¶Ì»ØÎÄ´®
-215 | kth-largest-element-in-an-array|Êı×éÖĞµÄµÚK¸ö×î´óÔªËØ
-216 | combination-sum-iii|×éºÏ×ÜºÍ III
-217 | contains-duplicate|´æÔÚÖØ¸´ÔªËØ
-218 | the-skyline-problem|Ìì¼ÊÏßÎÊÌâ
-219 | contains-duplicate-ii|´æÔÚÖØ¸´ÔªËØ II
-220 | contains-duplicate-iii|´æÔÚÖØ¸´ÔªËØ III
-221 | maximal-square|×î´óÕı·½ĞÎ
-222 | count-complete-tree-nodes|ÍêÈ«¶ş²æÊ÷µÄ½Úµã¸öÊı
-223 | rectangle-area|¾ØĞÎÃæ»ı
-224 | basic-calculator|»ù±¾¼ÆËãÆ÷
-225 | implement-stack-using-queues|ÓÃ¶ÓÁĞÊµÏÖÕ»
-226 | invert-binary-tree|·­×ª¶ş²æÊ÷
-227 | basic-calculator-ii|»ù±¾¼ÆËãÆ÷ II
-228 | summary-ranges|»ã×ÜÇø¼ä
-229 | majority-element-ii|ÇóÖÚÊı II
-230 | kth-smallest-element-in-a-bst|¶ş²æËÑË÷Ê÷ÖĞµÚKĞ¡µÄÔªËØ
-231 | power-of-two|2µÄÃİ
-232 | implement-queue-using-stacks|ÓÃÕ»ÊµÏÖ¶ÓÁĞ
-233 | number-of-digit-one|Êı×Ö1µÄ¸öÊı
-234 | palindrome-linked-list|»ØÎÄÁ´±í
-235 | lowest-common-ancestor-of-a-binary-search-tree|¶ş²æËÑË÷Ê÷µÄ×î½ü¹«¹²×æÏÈ
-236 | lowest-common-ancestor-of-a-binary-tree|¶ş²æÊ÷µÄ×î½ü¹«¹²×æÏÈ
-237 | delete-node-in-a-linked-list|É¾³ıÁ´±íÖĞµÄ½Úµã
-238 | product-of-array-except-self|³ı×ÔÉíÒÔÍâÊı×éµÄ³Ë»ı
-239 | sliding-window-maximum|»¬¶¯´°¿Ú×î´óÖµ
-240 | search-a-2d-matrix-ii|ËÑË÷¶şÎ¬¾ØÕó II
-241 | different-ways-to-add-parentheses|ÎªÔËËã±í´ïÊ½Éè¼ÆÓÅÏÈ¼¶
-242 | valid-anagram|ÓĞĞ§µÄ×ÖÄ¸ÒìÎ»´Ê
-257 | binary-tree-paths|¶ş²æÊ÷µÄËùÓĞÂ·¾¶
-258 | add-digits|¸÷Î»Ïà¼Ó
-260 | single-number-iii|Ö»³öÏÖÒ»´ÎµÄÊı×Ö III
-262 | trips-and-users|ĞĞ³ÌºÍÓÃ»§
-263 | ugly-number|³óÊı
-264 | ugly-number-ii|³óÊı II
-268 | missing-number|È±Ê§Êı×Ö
-273 | integer-to-english-words|ÕûÊı×ª»»Ó¢ÎÄ±íÊ¾
-274 | h-index|HÖ¸Êı
-275 | h-index-ii|HÖ¸Êı II
-278 | first-bad-version|µÚÒ»¸ö´íÎóµÄ°æ±¾
-279 | perfect-squares|ÍêÈ«Æ½·½Êı
-282 | expression-add-operators|¸ø±í´ïÊ½Ìí¼ÓÔËËã·û
-283 | move-zeroes|ÒÆ¶¯Áã
-284 | peeking-iterator|¶¥¶Ëµü´úÆ÷
-287 | find-the-duplicate-number|Ñ°ÕÒÖØ¸´Êı
-289 | game-of-life|ÉúÃüÓÎÏ·
-290 | word-pattern|µ¥´ÊÄ£Ê½
-292 | nim-game|NimÓÎÏ·
-295 | find-median-from-data-stream|Êı¾İÁ÷µÄÖĞÎ»Êı
-297 | serialize-and-deserialize-binary-tree|¶ş²æÊ÷µÄĞòÁĞ»¯Óë·´ĞòÁĞ»¯
-299 | bulls-and-cows|²ÂÊı×ÖÓÎÏ·
-300 | longest-increasing-subsequence|×î³¤ÉÏÉı×ÓĞòÁĞ
-301 | remove-invalid-parentheses|É¾³ıÎŞĞ§µÄÀ¨ºÅ
-303 | range-sum-query-immutable|ÇøÓòºÍ¼ìË÷ - Êı×é²»¿É±ä
-304 | range-sum-query-2d-immutable|¶şÎ¬ÇøÓòºÍ¼ìË÷ - ¾ØÕó²»¿É±ä
-306 | additive-number|ÀÛ¼ÓÊı
-307 | range-sum-query-mutable|ÇøÓòºÍ¼ìË÷ - Êı×é¿ÉĞŞ¸Ä
-309 | best-time-to-buy-and-sell-stock-with-cooldown|×î¼ÑÂòÂô¹ÉÆ±Ê±»úº¬Àä¶³ÆÚ
-310 | minimum-height-trees|×îĞ¡¸ß¶ÈÊ÷
-312 | burst-balloons|´ÁÆøÇò
-313 | super-ugly-number|³¬¼¶³óÊı
-315 | count-of-smaller-numbers-after-self|¼ÆËãÓÒ²àĞ¡ÓÚµ±Ç°ÔªËØµÄ¸öÊı
-316 | remove-duplicate-letters|È¥³ıÖØ¸´×ÖÄ¸
-318 | maximum-product-of-word-lengths|×î´óµ¥´Ê³¤¶È³Ë»ı
-319 | bulb-switcher|µÆÅİ¿ª¹Ø
-321 | create-maximum-number|Æ´½Ó×î´óÊı
-322 | coin-change|ÁãÇ®¶Ò»»
-324 | wiggle-sort-ii|°Ú¶¯ÅÅĞò II
-326 | power-of-three|3µÄÃİ
-327 | count-of-range-sum|Çø¼äºÍµÄ¸öÊı
-328 | odd-even-linked-list|ÆæÅ¼Á´±í
-329 | longest-increasing-path-in-a-matrix|¾ØÕóÖĞµÄ×î³¤µİÔöÂ·¾¶
-330 | patching-array|°´ÒªÇó²¹ÆëÊı×é
-331 | verify-preorder-serialization-of-a-binary-tree|ÑéÖ¤¶ş²æÊ÷µÄÇ°ĞòĞòÁĞ»¯
-332 | reconstruct-itinerary|ÖØĞÂ°²ÅÅĞĞ³Ì
-334 | increasing-triplet-subsequence|µİÔöµÄÈıÔª×ÓĞòÁĞ
-335 | self-crossing|Â·¾¶½»²æ
-336 | palindrome-pairs|»ØÎÄ¶Ô
-337 | house-robber-iii|´ò¼Ò½ÙÉá III
-338 | counting-bits|±ÈÌØÎ»¼ÆÊı
-341 | flatten-nested-list-iterator|±âÆ½»¯Ç¶Ì×ÁĞ±íµü´úÆ÷
-342 | power-of-four|4µÄÃİ
-343 | integer-break|ÕûÊı²ğ·Ö
-344 | reverse-string|·´×ª×Ö·û´®
-345 | reverse-vowels-of-a-string|·´×ª×Ö·û´®ÖĞµÄÔªÒô×ÖÄ¸
-347 | top-k-frequent-elements|Ç°K¸ö¸ßÆµÔªËØ
-349 | intersection-of-two-arrays|Á½¸öÊı×éµÄ½»¼¯
-350 | intersection-of-two-arrays-ii|Á½¸öÊı×éµÄ½»¼¯ II
-352 | data-stream-as-disjoint-intervals|½«Êı¾İÁ÷±äÎª¶à¸ö²»Ïà½»Çø¼ä
-354 | russian-doll-envelopes|¶íÂŞË¹Ì×ÍŞĞÅ·âÎÊÌâ
-355 | design-twitter|Éè¼ÆÍÆÌØ
-357 | count-numbers-with-unique-digits|¼ÆËã¸÷¸öÎ»Êı²»Í¬µÄÊı×Ö¸öÊı
-363 | max-sum-of-rectangle-no-larger-than-k|¾ØĞÎÇøÓò²»³¬¹ı K µÄ×î´óÊıÖµºÍ
-365 | water-and-jug-problem|Ë®ºøÎÊÌâ
-367 | valid-perfect-square|ÓĞĞ§µÄÍêÈ«Æ½·½Êı
-368 | largest-divisible-subset|×î´óÕû³ı×Ó¼¯
-371 | sum-of-two-integers|Á½ÕûÊıÖ®ºÍ
-372 | super-pow|³¬¼¶´Î·½
-373 | find-k-pairs-with-smallest-sums|²éÕÒºÍ×îĞ¡µÄK¶ÔÊı×Ö
-374 | guess-number-higher-or-lower|²ÂÊı×Ö´óĞ¡
-375 | guess-number-higher-or-lower-ii|²ÂÊı×Ö´óĞ¡ II
-376 | wiggle-subsequence|°Ú¶¯ĞòÁĞ
-377 | combination-sum-iv|×éºÏ×ÜºÍ ¢ô
-378 | kth-smallest-element-in-a-sorted-matrix|ÓĞĞò¾ØÕóÖĞµÚKĞ¡µÄÔªËØ
-380 | insert-delete-getrandom-o1|³£ÊıÊ±¼ä²åÈë¡¢É¾³ıºÍ»ñÈ¡Ëæ»úÔªËØ
-381 | insert-delete-getrandom-o1-duplicates-allowed|O(1) Ê±¼ä²åÈë¡¢É¾³ıºÍ»ñÈ¡Ëæ»úÔªËØ - ÔÊĞíÖØ¸´
-382 | linked-list-random-node|Á´±íËæ»ú½Úµã
-383 | ransom-note|Êê½ğĞÅ
-384 | shuffle-an-array|´òÂÒÊı×é
-385 | mini-parser|ÃÔÄãÓï·¨·ÖÎöÆ÷
-386 | lexicographical-numbers|×ÖµäĞòÅÅÊı
-387 | first-unique-character-in-a-string|×Ö·û´®ÖĞµÄµÚÒ»¸öÎ¨Ò»×Ö·û
-388 | longest-absolute-file-path|ÎÄ¼şµÄ×î³¤¾ø¶ÔÂ·¾¶
-389 | find-the-difference|ÕÒ²»Í¬
-390 | elimination-game|Ïû³ıÓÎÏ·
-391 | perfect-rectangle|ÍêÃÀ¾ØĞÎ
-392 | is-subsequence|ÅĞ¶Ï×ÓĞòÁĞ
-393 | utf-8-validation|UTF-8 ±àÂëÑéÖ¤
-394 | decode-string|×Ö·û´®½âÂë
-395 | longest-substring-with-at-least-k-repeating-characters|ÖÁÉÙÓĞK¸öÖØ¸´×Ö·ûµÄ×î³¤×Ó´®
-396 | rotate-function|Ğı×ªº¯Êı
-397 | integer-replacement|ÕûÊıÌæ»»
-398 | random-pick-index|Ëæ»úÊıË÷Òı
-399 | evaluate-division|³ı·¨ÇóÖµ
-400 | nth-digit|µÚN¸öÊı×Ö
-401 | binary-watch|¶ş½øÖÆÊÖ±í
-402 | remove-k-digits|ÒÆµôKÎ»Êı×Ö
-403 | frog-jump|ÇàÍÜ¹ıºÓ
-404 | sum-of-left-leaves|×óÒ¶×ÓÖ®ºÍ
-405 | convert-a-number-to-hexadecimal|Êı×Ö×ª»»ÎªÊ®Áù½øÖÆÊı
-406 | queue-reconstruction-by-height|¸ù¾İÉí¸ßÖØ½¨¶ÓÁĞ
-407 | trapping-rain-water-ii|½ÓÓêË® II
-409 | longest-palindrome|×î³¤»ØÎÄ´®
-410 | split-array-largest-sum|·Ö¸îÊı×éµÄ×î´óÖµ
+51 | n-queens|Nçš‡å
+52 | n-queens-ii|Nçš‡å II
+53 | maximum-subarray|æœ€å¤§å­åºå’Œ
+54 | spiral-matrix|èºæ—‹çŸ©é˜µ
+55 | jump-game|è·³è·ƒæ¸¸æˆ
+56 | merge-intervals|åˆå¹¶åŒºé—´
+57 | insert-interval|æ’å…¥åŒºé—´
+58 | length-of-last-word|æœ€åä¸€ä¸ªå•è¯çš„é•¿åº¦
+59 | spiral-matrix-ii|èºæ—‹çŸ©é˜µ II
+60 | permutation-sequence|ç¬¬kä¸ªæ’åˆ—
+61 | rotate-list|æ—‹è½¬é“¾è¡¨
+62 | unique-paths|ä¸åŒè·¯å¾„
+63 | unique-paths-ii|ä¸åŒè·¯å¾„ II
+64 | minimum-path-sum|æœ€å°è·¯å¾„å’Œ
+65 | valid-number|æœ‰æ•ˆæ•°å­—
+66 | plus-one|åŠ ä¸€
+67 | add-binary|äºŒè¿›åˆ¶æ±‚å’Œ
+68 | text-justification|æ–‡æœ¬å·¦å³å¯¹é½
+69 | sqrtx|x çš„å¹³æ–¹æ ¹
+70 | climbing-stairs|çˆ¬æ¥¼æ¢¯
+71 | simplify-path|ç®€åŒ–è·¯å¾„
+72 | edit-distance|ç¼–è¾‘è·ç¦»
+73 | set-matrix-zeroes|çŸ©é˜µç½®é›¶
+74 | search-a-2d-matrix|æœç´¢äºŒç»´çŸ©é˜µ
+75 | sort-colors|é¢œè‰²åˆ†ç±»
+76 | minimum-window-substring|æœ€å°è¦†ç›–å­ä¸²
+77 | combinations|ç»„åˆ
+78 | subsets|å­é›†
+79 | word-search|å•è¯æœç´¢
+80 | remove-duplicates-from-sorted-array-ii|åˆ é™¤æ’åºæ•°ç»„ä¸­çš„é‡å¤é¡¹ II
+81 | search-in-rotated-sorted-array-ii|æœç´¢æ—‹è½¬æ’åºæ•°ç»„ II
+82 | remove-duplicates-from-sorted-list-ii|åˆ é™¤æ’åºé“¾è¡¨ä¸­çš„é‡å¤å…ƒç´  II
+83 | remove-duplicates-from-sorted-list|åˆ é™¤æ’åºé“¾è¡¨ä¸­çš„é‡å¤å…ƒç´ 
+84 | largest-rectangle-in-histogram|æŸ±çŠ¶å›¾ä¸­æœ€å¤§çš„çŸ©å½¢
+85 | maximal-rectangle|æœ€å¤§çŸ©å½¢
+86 | partition-list|åˆ†éš”é“¾è¡¨
+87 | scramble-string|æ‰°ä¹±å­—ç¬¦ä¸²
+88 | merge-sorted-array|åˆå¹¶ä¸¤ä¸ªæœ‰åºæ•°ç»„
+89 | gray-code|æ ¼é›·ç¼–ç 
+90 | subsets-ii|å­é›† II
+91 | decode-ways|è§£ç æ–¹æ³•
+92 | reverse-linked-list-ii|åè½¬é“¾è¡¨ II
+93 | restore-ip-addresses|å¤åŸIPåœ°å€
+94 | binary-tree-inorder-traversal|äºŒå‰æ ‘çš„ä¸­åºéå†
+95 | unique-binary-search-trees-ii|ä¸åŒçš„äºŒå‰æœç´¢æ ‘ II
+96 | unique-binary-search-trees|ä¸åŒçš„äºŒå‰æœç´¢æ ‘
+97 | interleaving-string|äº¤é”™å­—ç¬¦ä¸²
+98 | validate-binary-search-tree|éªŒè¯äºŒå‰æœç´¢æ ‘
+99 | recover-binary-search-tree|æ¢å¤äºŒå‰æœç´¢æ ‘
+100 | same-tree|ç›¸åŒçš„æ ‘
+101 | symmetric-tree|å¯¹ç§°äºŒå‰æ ‘
+102 | binary-tree-level-order-traversal|äºŒå‰æ ‘çš„å±‚æ¬¡éå†
+103 | binary-tree-zigzag-level-order-traversal|äºŒå‰æ ‘çš„é”¯é½¿å½¢å±‚æ¬¡éå†
+104 | maximum-depth-of-binary-tree|äºŒå‰æ ‘çš„æœ€å¤§æ·±åº¦
+105 | construct-binary-tree-from-preorder-and-inorder-traversal|ä»å‰åºä¸ä¸­åºéå†åºåˆ—æ„é€ äºŒå‰æ ‘
+106 | construct-binary-tree-from-inorder-and-postorder-traversal|ä»ä¸­åºä¸ååºéå†åºåˆ—æ„é€ äºŒå‰æ ‘
+107 | binary-tree-level-order-traversal-ii|äºŒå‰æ ‘çš„å±‚æ¬¡éå† II
+108 | convert-sorted-array-to-binary-search-tree|å°†æœ‰åºæ•°ç»„è½¬æ¢ä¸ºäºŒå‰æœç´¢æ ‘
+109 | convert-sorted-list-to-binary-search-tree|æœ‰åºé“¾è¡¨è½¬æ¢äºŒå‰æœç´¢æ ‘
+110 | balanced-binary-tree|å¹³è¡¡äºŒå‰æ ‘
+111 | minimum-depth-of-binary-tree|äºŒå‰æ ‘çš„æœ€å°æ·±åº¦
+112 | path-sum|è·¯å¾„æ€»å’Œ
+113 | path-sum-ii|è·¯å¾„æ€»å’Œ II
+114 | flatten-binary-tree-to-linked-list|äºŒå‰æ ‘å±•å¼€ä¸ºé“¾è¡¨
+115 | distinct-subsequences|ä¸åŒçš„å­åºåˆ—
+116 | populating-next-right-pointers-in-each-node|å¡«å……æ¯ä¸ªèŠ‚ç‚¹çš„ä¸‹ä¸€ä¸ªå³ä¾§èŠ‚ç‚¹æŒ‡é’ˆ
+117 | populating-next-right-pointers-in-each-node-ii|å¡«å……æ¯ä¸ªèŠ‚ç‚¹çš„ä¸‹ä¸€ä¸ªå³ä¾§èŠ‚ç‚¹æŒ‡é’ˆ II
+118 | pascals-triangle|æ¨è¾‰ä¸‰è§’
+119 | pascals-triangle-ii|æ¨è¾‰ä¸‰è§’ II
+120 | triangle|ä¸‰è§’å½¢æœ€å°è·¯å¾„å’Œ
+121 | best-time-to-buy-and-sell-stock|ä¹°å–è‚¡ç¥¨çš„æœ€ä½³æ—¶æœº
+122 | best-time-to-buy-and-sell-stock-ii|ä¹°å–è‚¡ç¥¨çš„æœ€ä½³æ—¶æœº II
+123 | best-time-to-buy-and-sell-stock-iii|ä¹°å–è‚¡ç¥¨çš„æœ€ä½³æ—¶æœº III
+124 | binary-tree-maximum-path-sum|äºŒå‰æ ‘ä¸­çš„æœ€å¤§è·¯å¾„å’Œ
+125 | valid-palindrome|éªŒè¯å›æ–‡ä¸²
+126 | word-ladder-ii|å•è¯æ¥é¾™ II
+127 | word-ladder|å•è¯æ¥é¾™
+128 | longest-consecutive-sequence|æœ€é•¿è¿ç»­åºåˆ—
+129 | sum-root-to-leaf-numbers|æ±‚æ ¹åˆ°å¶å­èŠ‚ç‚¹æ•°å­—ä¹‹å’Œ
+130 | surrounded-regions|è¢«å›´ç»•çš„åŒºåŸŸ
+131 | palindrome-partitioning|åˆ†å‰²å›æ–‡ä¸²
+132 | palindrome-partitioning-ii|åˆ†å‰²å›æ–‡ä¸² II
+133 | clone-graph|å…‹éš†å›¾
+134 | gas-station|åŠ æ²¹ç«™
+135 | candy|åˆ†å‘ç³–æœ
+136 | single-number|åªå‡ºç°ä¸€æ¬¡çš„æ•°å­—
+137 | single-number-ii|åªå‡ºç°ä¸€æ¬¡çš„æ•°å­— II
+138 | copy-list-with-random-pointer|å¤åˆ¶å¸¦éšæœºæŒ‡é’ˆçš„é“¾è¡¨
+139 | word-break|å•è¯æ‹†åˆ†
+140 | word-break-ii|å•è¯æ‹†åˆ† II
+141 | linked-list-cycle|ç¯å½¢é“¾è¡¨
+142 | linked-list-cycle-ii|ç¯å½¢é“¾è¡¨ II
+143 | reorder-list|é‡æ’é“¾è¡¨
+144 | binary-tree-preorder-traversal|äºŒå‰æ ‘çš„å‰åºéå†
+145 | binary-tree-postorder-traversal|äºŒå‰æ ‘çš„ååºéå†
+146 | lru-cache|LRUç¼“å­˜æœºåˆ¶
+147 | insertion-sort-list|å¯¹é“¾è¡¨è¿›è¡Œæ’å…¥æ’åº
+148 | sort-list|æ’åºé“¾è¡¨
+149 | max-points-on-a-line|ç›´çº¿ä¸Šæœ€å¤šçš„ç‚¹æ•°
+150 | evaluate-reverse-polish-notation|é€†æ³¢å…°è¡¨è¾¾å¼æ±‚å€¼
+151 | reverse-words-in-a-string|ç¿»è½¬å­—ç¬¦ä¸²é‡Œçš„å•è¯
+152 | maximum-product-subarray|ä¹˜ç§¯æœ€å¤§å­åºåˆ—
+153 | find-minimum-in-rotated-sorted-array|å¯»æ‰¾æ—‹è½¬æ’åºæ•°ç»„ä¸­çš„æœ€å°å€¼
+154 | find-minimum-in-rotated-sorted-array-ii|å¯»æ‰¾æ—‹è½¬æ’åºæ•°ç»„ä¸­çš„æœ€å°å€¼ II
+155 | min-stack|æœ€å°æ ˆ
+160 | intersection-of-two-linked-lists|ç›¸äº¤é“¾è¡¨
+162 | find-peak-element|å¯»æ‰¾å³°å€¼
+164 | maximum-gap|æœ€å¤§é—´è·
+165 | compare-version-numbers|æ¯”è¾ƒç‰ˆæœ¬å·
+166 | fraction-to-recurring-decimal|åˆ†æ•°åˆ°å°æ•°
+167 | two-sum-ii-input-array-is-sorted|ä¸¤æ•°ä¹‹å’Œ II - è¾“å…¥æœ‰åºæ•°ç»„
+168 | excel-sheet-column-title|Excelè¡¨åˆ—åç§°
+169 | majority-element|æ±‚ä¼—æ•°
+171 | excel-sheet-column-number|Excelè¡¨åˆ—åºå·
+172 | factorial-trailing-zeroes|é˜¶ä¹˜åçš„é›¶
+173 | binary-search-tree-iterator|äºŒå‰æœç´¢æ ‘è¿­ä»£å™¨
+174 | dungeon-game|åœ°ä¸‹åŸæ¸¸æˆ
+175 | combine-two-tables|ç»„åˆä¸¤ä¸ªè¡¨
+176 | second-highest-salary|ç¬¬äºŒé«˜çš„è–ªæ°´
+177 | nth-highest-salary|ç¬¬Né«˜çš„è–ªæ°´
+178 | rank-scores|åˆ†æ•°æ’å
+179 | largest-number|æœ€å¤§æ•°
+180 | consecutive-numbers|è¿ç»­å‡ºç°çš„æ•°å­—
+181 | employees-earning-more-than-their-managers|è¶…è¿‡ç»ç†æ”¶å…¥çš„å‘˜å·¥
+182 | duplicate-emails|æŸ¥æ‰¾é‡å¤çš„ç”µå­é‚®ç®±
+183 | customers-who-never-order|ä»ä¸è®¢è´­çš„å®¢æˆ·
+184 | department-highest-salary|éƒ¨é—¨å·¥èµ„æœ€é«˜çš„å‘˜å·¥
+185 | department-top-three-salaries|éƒ¨é—¨å·¥èµ„å‰ä¸‰é«˜çš„å‘˜å·¥
+187 | repeated-dna-sequences|é‡å¤çš„DNAåºåˆ—
+188 | best-time-to-buy-and-sell-stock-iv|ä¹°å–è‚¡ç¥¨çš„æœ€ä½³æ—¶æœº IV
+189 | rotate-array|æ—‹è½¬æ•°ç»„
+190 | reverse-bits|é¢ å€’äºŒè¿›åˆ¶ä½
+191 | number-of-1-bits|ä½1çš„ä¸ªæ•°
+192 | word-frequency|ç»Ÿè®¡è¯é¢‘
+193 | valid-phone-numbers|æœ‰æ•ˆç”µè¯å·ç 
+194 | transpose-file|è½¬ç½®æ–‡ä»¶
+195 | tenth-line|ç¬¬åè¡Œ
+196 | delete-duplicate-emails|åˆ é™¤é‡å¤çš„ç”µå­é‚®ç®±
+197 | rising-temperature|ä¸Šå‡çš„æ¸©åº¦
+198 | house-robber|æ‰“å®¶åŠ«èˆ
+199 | binary-tree-right-side-view|äºŒå‰æ ‘çš„å³è§†å›¾
+200 | number-of-islands|å²›å±¿çš„ä¸ªæ•°
+201 | bitwise-and-of-numbers-range|æ•°å­—èŒƒå›´æŒ‰ä½ä¸
+202 | happy-number|å¿«ä¹æ•°
+203 | remove-linked-list-elements|ç§»é™¤é“¾è¡¨å…ƒç´ 
+204 | count-primes|è®¡æ•°è´¨æ•°
+205 | isomorphic-strings|åŒæ„å­—ç¬¦ä¸²
+206 | reverse-linked-list|åè½¬é“¾è¡¨
+207 | course-schedule|è¯¾ç¨‹è¡¨
+208 | implement-trie-prefix-tree|å®ç° Trie (å‰ç¼€æ ‘)
+209 | minimum-size-subarray-sum|é•¿åº¦æœ€å°çš„å­æ•°ç»„
+210 | course-schedule-ii|è¯¾ç¨‹è¡¨ II
+211 | add-and-search-word-data-structure-design|æ·»åŠ ä¸æœç´¢å•è¯ - æ•°æ®ç»“æ„è®¾è®¡
+212 | word-search-ii|å•è¯æœç´¢ II
+213 | house-robber-ii|æ‰“å®¶åŠ«èˆ II
+214 | shortest-palindrome|æœ€çŸ­å›æ–‡ä¸²
+215 | kth-largest-element-in-an-array|æ•°ç»„ä¸­çš„ç¬¬Kä¸ªæœ€å¤§å…ƒç´ 
+216 | combination-sum-iii|ç»„åˆæ€»å’Œ III
+217 | contains-duplicate|å­˜åœ¨é‡å¤å…ƒç´ 
+218 | the-skyline-problem|å¤©é™…çº¿é—®é¢˜
+219 | contains-duplicate-ii|å­˜åœ¨é‡å¤å…ƒç´  II
+220 | contains-duplicate-iii|å­˜åœ¨é‡å¤å…ƒç´  III
+221 | maximal-square|æœ€å¤§æ­£æ–¹å½¢
+222 | count-complete-tree-nodes|å®Œå…¨äºŒå‰æ ‘çš„èŠ‚ç‚¹ä¸ªæ•°
+223 | rectangle-area|çŸ©å½¢é¢ç§¯
+224 | basic-calculator|åŸºæœ¬è®¡ç®—å™¨
+225 | implement-stack-using-queues|ç”¨é˜Ÿåˆ—å®ç°æ ˆ
+226 | invert-binary-tree|ç¿»è½¬äºŒå‰æ ‘
+227 | basic-calculator-ii|åŸºæœ¬è®¡ç®—å™¨ II
+228 | summary-ranges|æ±‡æ€»åŒºé—´
+229 | majority-element-ii|æ±‚ä¼—æ•° II
+230 | kth-smallest-element-in-a-bst|äºŒå‰æœç´¢æ ‘ä¸­ç¬¬Kå°çš„å…ƒç´ 
+231 | power-of-two|2çš„å¹‚
+232 | implement-queue-using-stacks|ç”¨æ ˆå®ç°é˜Ÿåˆ—
+233 | number-of-digit-one|æ•°å­—1çš„ä¸ªæ•°
+234 | palindrome-linked-list|å›æ–‡é“¾è¡¨
+235 | lowest-common-ancestor-of-a-binary-search-tree|äºŒå‰æœç´¢æ ‘çš„æœ€è¿‘å…¬å…±ç¥–å…ˆ
+236 | lowest-common-ancestor-of-a-binary-tree|äºŒå‰æ ‘çš„æœ€è¿‘å…¬å…±ç¥–å…ˆ
+237 | delete-node-in-a-linked-list|åˆ é™¤é“¾è¡¨ä¸­çš„èŠ‚ç‚¹
+238 | product-of-array-except-self|é™¤è‡ªèº«ä»¥å¤–æ•°ç»„çš„ä¹˜ç§¯
+239 | sliding-window-maximum|æ»‘åŠ¨çª—å£æœ€å¤§å€¼
+240 | search-a-2d-matrix-ii|æœç´¢äºŒç»´çŸ©é˜µ II
+241 | different-ways-to-add-parentheses|ä¸ºè¿ç®—è¡¨è¾¾å¼è®¾è®¡ä¼˜å…ˆçº§
+242 | valid-anagram|æœ‰æ•ˆçš„å­—æ¯å¼‚ä½è¯
+257 | binary-tree-paths|äºŒå‰æ ‘çš„æ‰€æœ‰è·¯å¾„
+258 | add-digits|å„ä½ç›¸åŠ 
+260 | single-number-iii|åªå‡ºç°ä¸€æ¬¡çš„æ•°å­— III
+262 | trips-and-users|è¡Œç¨‹å’Œç”¨æˆ·
+263 | ugly-number|ä¸‘æ•°
+264 | ugly-number-ii|ä¸‘æ•° II
+268 | missing-number|ç¼ºå¤±æ•°å­—
+273 | integer-to-english-words|æ•´æ•°è½¬æ¢è‹±æ–‡è¡¨ç¤º
+274 | h-index|HæŒ‡æ•°
+275 | h-index-ii|HæŒ‡æ•° II
+278 | first-bad-version|ç¬¬ä¸€ä¸ªé”™è¯¯çš„ç‰ˆæœ¬
+279 | perfect-squares|å®Œå…¨å¹³æ–¹æ•°
+282 | expression-add-operators|ç»™è¡¨è¾¾å¼æ·»åŠ è¿ç®—ç¬¦
+283 | move-zeroes|ç§»åŠ¨é›¶
+284 | peeking-iterator|é¡¶ç«¯è¿­ä»£å™¨
+287 | find-the-duplicate-number|å¯»æ‰¾é‡å¤æ•°
+289 | game-of-life|ç”Ÿå‘½æ¸¸æˆ
+290 | word-pattern|å•è¯æ¨¡å¼
+292 | nim-game|Nimæ¸¸æˆ
+295 | find-median-from-data-stream|æ•°æ®æµçš„ä¸­ä½æ•°
+297 | serialize-and-deserialize-binary-tree|äºŒå‰æ ‘çš„åºåˆ—åŒ–ä¸ååºåˆ—åŒ–
+299 | bulls-and-cows|çŒœæ•°å­—æ¸¸æˆ
+300 | longest-increasing-subsequence|æœ€é•¿ä¸Šå‡å­åºåˆ—
+301 | remove-invalid-parentheses|åˆ é™¤æ— æ•ˆçš„æ‹¬å·
+303 | range-sum-query-immutable|åŒºåŸŸå’Œæ£€ç´¢ - æ•°ç»„ä¸å¯å˜
+304 | range-sum-query-2d-immutable|äºŒç»´åŒºåŸŸå’Œæ£€ç´¢ - çŸ©é˜µä¸å¯å˜
+306 | additive-number|ç´¯åŠ æ•°
+307 | range-sum-query-mutable|åŒºåŸŸå’Œæ£€ç´¢ - æ•°ç»„å¯ä¿®æ”¹
+309 | best-time-to-buy-and-sell-stock-with-cooldown|æœ€ä½³ä¹°å–è‚¡ç¥¨æ—¶æœºå«å†·å†»æœŸ
+310 | minimum-height-trees|æœ€å°é«˜åº¦æ ‘
+312 | burst-balloons|æˆ³æ°”çƒ
+313 | super-ugly-number|è¶…çº§ä¸‘æ•°
+315 | count-of-smaller-numbers-after-self|è®¡ç®—å³ä¾§å°äºå½“å‰å…ƒç´ çš„ä¸ªæ•°
+316 | remove-duplicate-letters|å»é™¤é‡å¤å­—æ¯
+318 | maximum-product-of-word-lengths|æœ€å¤§å•è¯é•¿åº¦ä¹˜ç§¯
+319 | bulb-switcher|ç¯æ³¡å¼€å…³
+321 | create-maximum-number|æ‹¼æ¥æœ€å¤§æ•°
+322 | coin-change|é›¶é’±å…‘æ¢
+324 | wiggle-sort-ii|æ‘†åŠ¨æ’åº II
+326 | power-of-three|3çš„å¹‚
+327 | count-of-range-sum|åŒºé—´å’Œçš„ä¸ªæ•°
+328 | odd-even-linked-list|å¥‡å¶é“¾è¡¨
+329 | longest-increasing-path-in-a-matrix|çŸ©é˜µä¸­çš„æœ€é•¿é€’å¢è·¯å¾„
+330 | patching-array|æŒ‰è¦æ±‚è¡¥é½æ•°ç»„
+331 | verify-preorder-serialization-of-a-binary-tree|éªŒè¯äºŒå‰æ ‘çš„å‰åºåºåˆ—åŒ–
+332 | reconstruct-itinerary|é‡æ–°å®‰æ’è¡Œç¨‹
+334 | increasing-triplet-subsequence|é€’å¢çš„ä¸‰å…ƒå­åºåˆ—
+335 | self-crossing|è·¯å¾„äº¤å‰
+336 | palindrome-pairs|å›æ–‡å¯¹
+337 | house-robber-iii|æ‰“å®¶åŠ«èˆ III
+338 | counting-bits|æ¯”ç‰¹ä½è®¡æ•°
+341 | flatten-nested-list-iterator|æ‰å¹³åŒ–åµŒå¥—åˆ—è¡¨è¿­ä»£å™¨
+342 | power-of-four|4çš„å¹‚
+343 | integer-break|æ•´æ•°æ‹†åˆ†
+344 | reverse-string|åè½¬å­—ç¬¦ä¸²
+345 | reverse-vowels-of-a-string|åè½¬å­—ç¬¦ä¸²ä¸­çš„å…ƒéŸ³å­—æ¯
+347 | top-k-frequent-elements|å‰Kä¸ªé«˜é¢‘å…ƒç´ 
+349 | intersection-of-two-arrays|ä¸¤ä¸ªæ•°ç»„çš„äº¤é›†
+350 | intersection-of-two-arrays-ii|ä¸¤ä¸ªæ•°ç»„çš„äº¤é›† II
+352 | data-stream-as-disjoint-intervals|å°†æ•°æ®æµå˜ä¸ºå¤šä¸ªä¸ç›¸äº¤åŒºé—´
+354 | russian-doll-envelopes|ä¿„ç½—æ–¯å¥—å¨ƒä¿¡å°é—®é¢˜
+355 | design-twitter|è®¾è®¡æ¨ç‰¹
+357 | count-numbers-with-unique-digits|è®¡ç®—å„ä¸ªä½æ•°ä¸åŒçš„æ•°å­—ä¸ªæ•°
+363 | max-sum-of-rectangle-no-larger-than-k|çŸ©å½¢åŒºåŸŸä¸è¶…è¿‡ K çš„æœ€å¤§æ•°å€¼å’Œ
+365 | water-and-jug-problem|æ°´å£¶é—®é¢˜
+367 | valid-perfect-square|æœ‰æ•ˆçš„å®Œå…¨å¹³æ–¹æ•°
+368 | largest-divisible-subset|æœ€å¤§æ•´é™¤å­é›†
+371 | sum-of-two-integers|ä¸¤æ•´æ•°ä¹‹å’Œ
+372 | super-pow|è¶…çº§æ¬¡æ–¹
+373 | find-k-pairs-with-smallest-sums|æŸ¥æ‰¾å’Œæœ€å°çš„Kå¯¹æ•°å­—
+374 | guess-number-higher-or-lower|çŒœæ•°å­—å¤§å°
+375 | guess-number-higher-or-lower-ii|çŒœæ•°å­—å¤§å° II
+376 | wiggle-subsequence|æ‘†åŠ¨åºåˆ—
+377 | combination-sum-iv|ç»„åˆæ€»å’Œ â…£
+378 | kth-smallest-element-in-a-sorted-matrix|æœ‰åºçŸ©é˜µä¸­ç¬¬Kå°çš„å…ƒç´ 
+380 | insert-delete-getrandom-o1|å¸¸æ•°æ—¶é—´æ’å…¥ã€åˆ é™¤å’Œè·å–éšæœºå…ƒç´ 
+381 | insert-delete-getrandom-o1-duplicates-allowed|O(1) æ—¶é—´æ’å…¥ã€åˆ é™¤å’Œè·å–éšæœºå…ƒç´  - å…è®¸é‡å¤
+382 | linked-list-random-node|é“¾è¡¨éšæœºèŠ‚ç‚¹
+383 | ransom-note|èµé‡‘ä¿¡
+384 | shuffle-an-array|æ‰“ä¹±æ•°ç»„
+385 | mini-parser|è¿·ä½ è¯­æ³•åˆ†æå™¨
+386 | lexicographical-numbers|å­—å…¸åºæ’æ•°
+387 | first-unique-character-in-a-string|å­—ç¬¦ä¸²ä¸­çš„ç¬¬ä¸€ä¸ªå”¯ä¸€å­—ç¬¦
+388 | longest-absolute-file-path|æ–‡ä»¶çš„æœ€é•¿ç»å¯¹è·¯å¾„
+389 | find-the-difference|æ‰¾ä¸åŒ
+390 | elimination-game|æ¶ˆé™¤æ¸¸æˆ
+391 | perfect-rectangle|å®Œç¾çŸ©å½¢
+392 | is-subsequence|åˆ¤æ–­å­åºåˆ—
+393 | utf-8-validation|UTF-8 ç¼–ç éªŒè¯
+394 | decode-string|å­—ç¬¦ä¸²è§£ç 
+395 | longest-substring-with-at-least-k-repeating-characters|è‡³å°‘æœ‰Kä¸ªé‡å¤å­—ç¬¦çš„æœ€é•¿å­ä¸²
+396 | rotate-function|æ—‹è½¬å‡½æ•°
+397 | integer-replacement|æ•´æ•°æ›¿æ¢
+398 | random-pick-index|éšæœºæ•°ç´¢å¼•
+399 | evaluate-division|é™¤æ³•æ±‚å€¼
+400 | nth-digit|ç¬¬Nä¸ªæ•°å­—
+401 | binary-watch|äºŒè¿›åˆ¶æ‰‹è¡¨
+402 | remove-k-digits|ç§»æ‰Kä½æ•°å­—
+403 | frog-jump|é’è›™è¿‡æ²³
+404 | sum-of-left-leaves|å·¦å¶å­ä¹‹å’Œ
+405 | convert-a-number-to-hexadecimal|æ•°å­—è½¬æ¢ä¸ºåå…­è¿›åˆ¶æ•°
+406 | queue-reconstruction-by-height|æ ¹æ®èº«é«˜é‡å»ºé˜Ÿåˆ—
+407 | trapping-rain-water-ii|æ¥é›¨æ°´ II
+409 | longest-palindrome|æœ€é•¿å›æ–‡ä¸²
+410 | split-array-largest-sum|åˆ†å‰²æ•°ç»„çš„æœ€å¤§å€¼
 412 | fizz-buzz|Fizz Buzz
-413 | arithmetic-slices|µÈ²îÊıÁĞ»®·Ö
-414 | third-maximum-number|µÚÈı´óµÄÊı
-415 | add-strings|×Ö·û´®Ïà¼Ó
-416 | partition-equal-subset-sum|·Ö¸îµÈºÍ×Ó¼¯
-417 | pacific-atlantic-water-flow|Ì«Æ½Ñó´óÎ÷ÑóË®Á÷ÎÊÌâ
-419 | battleships-in-a-board|¼×°åÉÏµÄÕ½½¢
-420 | strong-password-checker|Ç¿ÃÜÂë¼ìÑéÆ÷
-421 | maximum-xor-of-two-numbers-in-an-array|Êı×éÖĞÁ½¸öÊıµÄ×î´óÒì»òÖµ
-423 | reconstruct-original-digits-from-english|´ÓÓ¢ÎÄÖĞÖØ½¨Êı×Ö
-424 | longest-repeating-character-replacement|Ìæ»»ºóµÄ×î³¤ÖØ¸´×Ö·û
-427 | construct-quad-tree|½¨Á¢ËÄ²æÊ÷
-429 | n-ary-tree-level-order-traversal|N²æÊ÷µÄ²ãĞò±éÀú
-430 | flatten-a-multilevel-doubly-linked-list|±âÆ½»¯¶à¼¶Ë«ÏòÁ´±í
-432 | all-oone-data-structure|È« O(1) µÄÊı¾İ½á¹¹
-433 | minimum-genetic-mutation|×îĞ¡»ùÒò±ä»¯
-434 | number-of-segments-in-a-string|×Ö·û´®ÖĞµÄµ¥´ÊÊı
-435 | non-overlapping-intervals|ÎŞÖØµşÇø¼ä
-436 | find-right-interval|Ñ°ÕÒÓÒÇø¼ä
-437 | path-sum-iii|Â·¾¶×ÜºÍ III
-438 | find-all-anagrams-in-a-string|ÕÒµ½×Ö·û´®ÖĞËùÓĞ×ÖÄ¸ÒìÎ»´Ê
-440 | k-th-smallest-in-lexicographical-order|×ÖµäĞòµÄµÚKĞ¡Êı×Ö
-441 | arranging-coins|ÅÅÁĞÓ²±Ò
-442 | find-all-duplicates-in-an-array|Êı×éÖĞÖØ¸´µÄÊı¾İ
-443 | string-compression|Ñ¹Ëõ×Ö·û´®
-445 | add-two-numbers-ii|Á½ÊıÏà¼Ó II
-446 | arithmetic-slices-ii-subsequence|µÈ²îÊıÁĞ»®·Ö II - ×ÓĞòÁĞ
-447 | number-of-boomerangs|»ØĞıïÚµÄÊıÁ¿
-448 | find-all-numbers-disappeared-in-an-array|ÕÒµ½ËùÓĞÊı×éÖĞÏûÊ§µÄÊı×Ö
-449 | serialize-and-deserialize-bst|ĞòÁĞ»¯ºÍ·´ĞòÁĞ»¯¶ş²æËÑË÷Ê÷
-450 | delete-node-in-a-bst|É¾³ı¶ş²æËÑË÷Ê÷ÖĞµÄ½Úµã
-451 | sort-characters-by-frequency|¸ù¾İ×Ö·û³öÏÖÆµÂÊÅÅĞò
-452 | minimum-number-of-arrows-to-burst-balloons|ÓÃ×îÉÙÊıÁ¿µÄ¼ıÒı±¬ÆøÇò
-453 | minimum-moves-to-equal-array-elements|×îĞ¡ÒÆ¶¯´ÎÊıÊ¹Êı×éÔªËØÏàµÈ
-454 | 4sum-ii|ËÄÊıÏà¼Ó II
-455 | assign-cookies|·Ö·¢±ı¸É
-456 | 132-pattern|132Ä£Ê½
-457 | circular-array-loop|»·ĞÎÊı×éÑ­»·
-458 | poor-pigs|¿ÉÁ¯µÄĞ¡Öí
-459 | repeated-substring-pattern|ÖØ¸´µÄ×Ó×Ö·û´®
-460 | lfu-cache|LFU»º´æ
-461 | hamming-distance|ººÃ÷¾àÀë
-462 | minimum-moves-to-equal-array-elements-ii|×îÉÙÒÆ¶¯´ÎÊıÊ¹Êı×éÔªËØÏàµÈ II
-463 | island-perimeter|µºÓìµÄÖÜ³¤
-464 | can-i-win|ÎÒÄÜÓ®Âğ
-466 | count-the-repetitions|Í³¼ÆÖØ¸´¸öÊı
-467 | unique-substrings-in-wraparound-string|»·ÈÆ×Ö·û´®ÖĞÎ¨Ò»µÄ×Ó×Ö·û´®
-468 | validate-ip-address|ÑéÖ¤IPµØÖ·
-470 | implement-rand10-using-rand7|ÓÃ Rand7() ÊµÏÖ Rand10()
-472 | concatenated-words|Á¬½Ó´Ê
-473 | matchsticks-to-square|»ğ²ñÆ´Õı·½ĞÎ
-474 | ones-and-zeroes|Ò»ºÍÁã
-475 | heaters|¹©Å¯Æ÷
-476 | number-complement|Êı×ÖµÄ²¹Êı
-477 | total-hamming-distance|ººÃ÷¾àÀë×ÜºÍ
-478 | generate-random-point-in-a-circle|ÔÚÔ²ÄÚËæ»úÉú³Éµã
-479 | largest-palindrome-product|×î´ó»ØÎÄÊı³Ë»ı
-480 | sliding-window-median|»¬¶¯´°¿ÚÖĞÎ»Êı
-481 | magical-string|ÉñÆæ×Ö·û´®
-482 | license-key-formatting|ÃÜÔ¿¸ñÊ½»¯
-483 | smallest-good-base|×îĞ¡ºÃ½øÖÆ
-485 | max-consecutive-ones|×î´óÁ¬Ğø1µÄ¸öÊı
-486 | predict-the-winner|Ô¤²âÓ®¼Ò
-488 | zuma-game|×æÂêÓÎÏ·
-491 | increasing-subsequences|µİÔö×ÓĞòÁĞ
-492 | construct-the-rectangle|¹¹Ôì¾ØĞÎ
-493 | reverse-pairs|·­×ª¶Ô
-494 | target-sum|Ä¿±êºÍ
-495 | teemo-attacking|ÌáÄª¹¥»÷
-496 | next-greater-element-i|ÏÂÒ»¸ö¸ü´óÔªËØ I
-497 | random-point-in-non-overlapping-rectangles|·ÇÖØµş¾ØĞÎÖĞµÄËæ»úµã
-498 | diagonal-traverse|¶Ô½ÇÏß±éÀú
-500 | keyboard-row|¼üÅÌĞĞ
-501 | find-mode-in-binary-search-tree|¶ş²æËÑË÷Ê÷ÖĞµÄÖÚÊı
+413 | arithmetic-slices|ç­‰å·®æ•°åˆ—åˆ’åˆ†
+414 | third-maximum-number|ç¬¬ä¸‰å¤§çš„æ•°
+415 | add-strings|å­—ç¬¦ä¸²ç›¸åŠ 
+416 | partition-equal-subset-sum|åˆ†å‰²ç­‰å’Œå­é›†
+417 | pacific-atlantic-water-flow|å¤ªå¹³æ´‹å¤§è¥¿æ´‹æ°´æµé—®é¢˜
+419 | battleships-in-a-board|ç”²æ¿ä¸Šçš„æˆ˜èˆ°
+420 | strong-password-checker|å¼ºå¯†ç æ£€éªŒå™¨
+421 | maximum-xor-of-two-numbers-in-an-array|æ•°ç»„ä¸­ä¸¤ä¸ªæ•°çš„æœ€å¤§å¼‚æˆ–å€¼
+423 | reconstruct-original-digits-from-english|ä»è‹±æ–‡ä¸­é‡å»ºæ•°å­—
+424 | longest-repeating-character-replacement|æ›¿æ¢åçš„æœ€é•¿é‡å¤å­—ç¬¦
+427 | construct-quad-tree|å»ºç«‹å››å‰æ ‘
+429 | n-ary-tree-level-order-traversal|Nå‰æ ‘çš„å±‚åºéå†
+430 | flatten-a-multilevel-doubly-linked-list|æ‰å¹³åŒ–å¤šçº§åŒå‘é“¾è¡¨
+432 | all-oone-data-structure|å…¨ O(1) çš„æ•°æ®ç»“æ„
+433 | minimum-genetic-mutation|æœ€å°åŸºå› å˜åŒ–
+434 | number-of-segments-in-a-string|å­—ç¬¦ä¸²ä¸­çš„å•è¯æ•°
+435 | non-overlapping-intervals|æ— é‡å åŒºé—´
+436 | find-right-interval|å¯»æ‰¾å³åŒºé—´
+437 | path-sum-iii|è·¯å¾„æ€»å’Œ III
+438 | find-all-anagrams-in-a-string|æ‰¾åˆ°å­—ç¬¦ä¸²ä¸­æ‰€æœ‰å­—æ¯å¼‚ä½è¯
+440 | k-th-smallest-in-lexicographical-order|å­—å…¸åºçš„ç¬¬Kå°æ•°å­—
+441 | arranging-coins|æ’åˆ—ç¡¬å¸
+442 | find-all-duplicates-in-an-array|æ•°ç»„ä¸­é‡å¤çš„æ•°æ®
+443 | string-compression|å‹ç¼©å­—ç¬¦ä¸²
+445 | add-two-numbers-ii|ä¸¤æ•°ç›¸åŠ  II
+446 | arithmetic-slices-ii-subsequence|ç­‰å·®æ•°åˆ—åˆ’åˆ† II - å­åºåˆ—
+447 | number-of-boomerangs|å›æ—‹é•–çš„æ•°é‡
+448 | find-all-numbers-disappeared-in-an-array|æ‰¾åˆ°æ‰€æœ‰æ•°ç»„ä¸­æ¶ˆå¤±çš„æ•°å­—
+449 | serialize-and-deserialize-bst|åºåˆ—åŒ–å’Œååºåˆ—åŒ–äºŒå‰æœç´¢æ ‘
+450 | delete-node-in-a-bst|åˆ é™¤äºŒå‰æœç´¢æ ‘ä¸­çš„èŠ‚ç‚¹
+451 | sort-characters-by-frequency|æ ¹æ®å­—ç¬¦å‡ºç°é¢‘ç‡æ’åº
+452 | minimum-number-of-arrows-to-burst-balloons|ç”¨æœ€å°‘æ•°é‡çš„ç®­å¼•çˆ†æ°”çƒ
+453 | minimum-moves-to-equal-array-elements|æœ€å°ç§»åŠ¨æ¬¡æ•°ä½¿æ•°ç»„å…ƒç´ ç›¸ç­‰
+454 | 4sum-ii|å››æ•°ç›¸åŠ  II
+455 | assign-cookies|åˆ†å‘é¥¼å¹²
+456 | 132-pattern|132æ¨¡å¼
+457 | circular-array-loop|ç¯å½¢æ•°ç»„å¾ªç¯
+458 | poor-pigs|å¯æ€œçš„å°çŒª
+459 | repeated-substring-pattern|é‡å¤çš„å­å­—ç¬¦ä¸²
+460 | lfu-cache|LFUç¼“å­˜
+461 | hamming-distance|æ±‰æ˜è·ç¦»
+462 | minimum-moves-to-equal-array-elements-ii|æœ€å°‘ç§»åŠ¨æ¬¡æ•°ä½¿æ•°ç»„å…ƒç´ ç›¸ç­‰ II
+463 | island-perimeter|å²›å±¿çš„å‘¨é•¿
+464 | can-i-win|æˆ‘èƒ½èµ¢å—
+466 | count-the-repetitions|ç»Ÿè®¡é‡å¤ä¸ªæ•°
+467 | unique-substrings-in-wraparound-string|ç¯ç»•å­—ç¬¦ä¸²ä¸­å”¯ä¸€çš„å­å­—ç¬¦ä¸²
+468 | validate-ip-address|éªŒè¯IPåœ°å€
+470 | implement-rand10-using-rand7|ç”¨ Rand7() å®ç° Rand10()
+472 | concatenated-words|è¿æ¥è¯
+473 | matchsticks-to-square|ç«æŸ´æ‹¼æ­£æ–¹å½¢
+474 | ones-and-zeroes|ä¸€å’Œé›¶
+475 | heaters|ä¾›æš–å™¨
+476 | number-complement|æ•°å­—çš„è¡¥æ•°
+477 | total-hamming-distance|æ±‰æ˜è·ç¦»æ€»å’Œ
+478 | generate-random-point-in-a-circle|åœ¨åœ†å†…éšæœºç”Ÿæˆç‚¹
+479 | largest-palindrome-product|æœ€å¤§å›æ–‡æ•°ä¹˜ç§¯
+480 | sliding-window-median|æ»‘åŠ¨çª—å£ä¸­ä½æ•°
+481 | magical-string|ç¥å¥‡å­—ç¬¦ä¸²
+482 | license-key-formatting|å¯†é’¥æ ¼å¼åŒ–
+483 | smallest-good-base|æœ€å°å¥½è¿›åˆ¶
+485 | max-consecutive-ones|æœ€å¤§è¿ç»­1çš„ä¸ªæ•°
+486 | predict-the-winner|é¢„æµ‹èµ¢å®¶
+488 | zuma-game|ç¥–ç›æ¸¸æˆ
+491 | increasing-subsequences|é€’å¢å­åºåˆ—
+492 | construct-the-rectangle|æ„é€ çŸ©å½¢
+493 | reverse-pairs|ç¿»è½¬å¯¹
+494 | target-sum|ç›®æ ‡å’Œ
+495 | teemo-attacking|æè«æ”»å‡»
+496 | next-greater-element-i|ä¸‹ä¸€ä¸ªæ›´å¤§å…ƒç´  I
+497 | random-point-in-non-overlapping-rectangles|éé‡å çŸ©å½¢ä¸­çš„éšæœºç‚¹
+498 | diagonal-traverse|å¯¹è§’çº¿éå†
+500 | keyboard-row|é”®ç›˜è¡Œ
+501 | find-mode-in-binary-search-tree|äºŒå‰æœç´¢æ ‘ä¸­çš„ä¼—æ•°
 502 | ipo|IPO
-503 | next-greater-element-ii|ÏÂÒ»¸ö¸ü´óÔªËØ II
-504 | base-7|Æß½øÖÆÊı
-506 | relative-ranks|Ïà¶ÔÃû´Î
-507 | perfect-number|ÍêÃÀÊı
-508 | most-frequent-subtree-sum|³öÏÖ´ÎÊı×î¶àµÄ×ÓÊ÷ÔªËØºÍ
-509 | fibonacci-number|ì³²¨ÄÇÆõÊı
-513 | find-bottom-left-tree-value|ÕÒÊ÷×óÏÂ½ÇµÄÖµ
-514 | freedom-trail|×ÔÓÉÖ®Â·
-515 | find-largest-value-in-each-tree-row|ÔÚÃ¿¸öÊ÷ĞĞÖĞÕÒ×î´óÖµ
-516 | longest-palindromic-subsequence|×î³¤»ØÎÄ×ÓĞòÁĞ
-517 | super-washing-machines|³¬¼¶Ï´ÒÂ»ú
-518 | coin-change-2|ÁãÇ®¶Ò»» II
-519 | random-flip-matrix|Ëæ»ú·­×ª¾ØÕó
-520 | detect-capital|¼ì²â´óĞ´×ÖÄ¸
-521 | longest-uncommon-subsequence-i|×î³¤ÌØÊâĞòÁĞ ¢ñ
-522 | longest-uncommon-subsequence-ii|×î³¤ÌØÊâĞòÁĞ II
-523 | continuous-subarray-sum|Á¬ĞøµÄ×ÓÊı×éºÍ
-524 | longest-word-in-dictionary-through-deleting|Í¨¹ıÉ¾³ı×ÖÄ¸Æ¥Åäµ½×ÖµäÀï×î³¤µ¥´Ê
-525 | contiguous-array|Á¬ĞøÊı×é
-526 | beautiful-arrangement|ÓÅÃÀµÄÅÅÁĞ
-528 | random-pick-with-weight|°´È¨ÖØËæ»úÑ¡Ôñ
-529 | minesweeper|É¨À×ÓÎÏ·
-530 | minimum-absolute-difference-in-bst|¶ş²æËÑË÷Ê÷µÄ×îĞ¡¾ø¶Ô²î
-532 | k-diff-pairs-in-an-array|Êı×éÖĞµÄK-diffÊı¶Ô
-535 | encode-and-decode-tinyurl|TinyURL µÄ¼ÓÃÜÓë½âÃÜ
-537 | complex-number-multiplication|¸´Êı³Ë·¨
-538 | convert-bst-to-greater-tree|°Ñ¶ş²æËÑË÷Ê÷×ª»»ÎªÀÛ¼ÓÊ÷
-539 | minimum-time-difference|×îĞ¡Ê±¼ä²î
-540 | single-element-in-a-sorted-array|ÓĞĞòÊı×éÖĞµÄµ¥Ò»ÔªËØ
-541 | reverse-string-ii|·´×ª×Ö·û´® II
-542 | 01-matrix|01 ¾ØÕó
-543 | diameter-of-binary-tree|¶ş²æÊ÷µÄÖ±¾¶
-546 | remove-boxes|ÒÆ³ıºĞ×Ó
-547 | friend-circles|ÅóÓÑÈ¦
-551 | student-attendance-record-i|Ñ§Éú³öÇÚ¼ÇÂ¼ I
-552 | student-attendance-record-ii|Ñ§Éú³öÇÚ¼ÇÂ¼ II
-553 | optimal-division|×îÓÅ³ı·¨
-554 | brick-wall|×©Ç½
-556 | next-greater-element-iii|ÏÂÒ»¸ö¸ü´óÔªËØ III
-557 | reverse-words-in-a-string-iii|·´×ª×Ö·û´®ÖĞµÄµ¥´Ê III
-558 | quad-tree-intersection|ËÄ²æÊ÷½»¼¯
-559 | maximum-depth-of-n-ary-tree|N²æÊ÷µÄ×î´óÉî¶È
-560 | subarray-sum-equals-k|ºÍÎªKµÄ×ÓÊı×é
-561 | array-partition-i|Êı×é²ğ·Ö I
-563 | binary-tree-tilt|¶ş²æÊ÷µÄÆÂ¶È
-564 | find-the-closest-palindrome|Ñ°ÕÒ×î½üµÄ»ØÎÄÊı
-565 | array-nesting|Êı×éÇ¶Ì×
-566 | reshape-the-matrix|ÖØËÜ¾ØÕó
-567 | permutation-in-string|×Ö·û´®µÄÅÅÁĞ
-572 | subtree-of-another-tree|ÁíÒ»¸öÊ÷µÄ×ÓÊ÷
-575 | distribute-candies|·ÖÌÇ¹û
-576 | out-of-boundary-paths|³ö½çµÄÂ·¾¶Êı
-581 | shortest-unsorted-continuous-subarray|×î¶ÌÎŞĞòÁ¬Ğø×ÓÊı×é
-583 | delete-operation-for-two-strings|Á½¸ö×Ö·û´®µÄÉ¾³ı²Ù×÷
-587 | erect-the-fence|°²×°Õ¤À¸
-589 | n-ary-tree-preorder-traversal|N²æÊ÷µÄÇ°Ğò±éÀú
-590 | n-ary-tree-postorder-traversal|N²æÊ÷µÄºóĞò±éÀú
-591 | tag-validator|±êÇ©ÑéÖ¤Æ÷
-592 | fraction-addition-and-subtraction|·ÖÊı¼Ó¼õÔËËã
-593 | valid-square|ÓĞĞ§µÄÕı·½ĞÎ
-594 | longest-harmonious-subsequence|×î³¤ºÍĞ³×ÓĞòÁĞ
-595 | big-countries|´óµÄ¹ú¼Ò
-596 | classes-more-than-5-students|³¬¹ı5ÃûÑ§ÉúµÄ¿Î
-598 | range-addition-ii|·¶Î§ÇóºÍ II
-599 | minimum-index-sum-of-two-lists|Á½¸öÁĞ±íµÄ×îĞ¡Ë÷Òı×ÜºÍ
-600 | non-negative-integers-without-consecutive-ones|²»º¬Á¬Ğø1µÄ·Ç¸ºÕûÊı
-601 | human-traffic-of-stadium|ÌåÓı¹İµÄÈËÁ÷Á¿
-605 | can-place-flowers|ÖÖ»¨ÎÊÌâ
-606 | construct-string-from-binary-tree|¸ù¾İ¶ş²æÊ÷´´½¨×Ö·û´®
-609 | find-duplicate-file-in-system|ÔÚÏµÍ³ÖĞ²éÕÒÖØ¸´ÎÄ¼ş
-611 | valid-triangle-number|ÓĞĞ§Èı½ÇĞÎµÄ¸öÊı
-617 | merge-two-binary-trees|ºÏ²¢¶ş²æÊ÷
-620 | not-boring-movies|ÓĞÈ¤µÄµçÓ°
-621 | task-scheduler|ÈÎÎñµ÷¶ÈÆ÷
-622 | design-circular-queue|Éè¼ÆÑ­»·¶ÓÁĞ
-623 | add-one-row-to-tree|ÔÚ¶ş²æÊ÷ÖĞÔö¼ÓÒ»ĞĞ
-626 | exchange-seats|»»×ùÎ»
-627 | swap-salary|½»»»¹¤×Ê
-628 | maximum-product-of-three-numbers|Èı¸öÊıµÄ×î´ó³Ë»ı
-629 | k-inverse-pairs-array|K¸öÄæĞò¶ÔÊı×é
-630 | course-schedule-iii|¿Î³Ì±í III
-632 | smallest-range|×îĞ¡Çø¼ä
-633 | sum-of-square-numbers|Æ½·½ÊıÖ®ºÍ
-636 | exclusive-time-of-functions|º¯ÊıµÄ¶ÀÕ¼Ê±¼ä
-637 | average-of-levels-in-binary-tree|¶ş²æÊ÷µÄ²ãÆ½¾ùÖµ
-638 | shopping-offers|´óÀñ°ü
-639 | decode-ways-ii|½âÂë·½·¨ 2
-640 | solve-the-equation|Çó½â·½³Ì
-641 | design-circular-deque|Éè¼ÆÑ­»·Ë«¶Ë¶ÓÁĞ
-643 | maximum-average-subarray-i|×ÓÊı×é×î´óÆ½¾ùÊı I
-645 | set-mismatch|´íÎóµÄ¼¯ºÏ
-646 | maximum-length-of-pair-chain|×î³¤Êı¶ÔÁ´
-647 | palindromic-substrings|»ØÎÄ×Ó´®
-648 | replace-words|µ¥´ÊÌæ»»
-649 | dota2-senate|Dota2 ²ÎÒéÔº
-650 | 2-keys-keyboard|Ö»ÓĞÁ½¸ö¼üµÄ¼üÅÌ
-652 | find-duplicate-subtrees|Ñ°ÕÒÖØ¸´µÄ×ÓÊ÷
-653 | two-sum-iv-input-is-a-bst|Á½ÊıÖ®ºÍ IV - ÊäÈë BST
-654 | maximum-binary-tree|×î´ó¶ş²æÊ÷
-655 | print-binary-tree|Êä³ö¶ş²æÊ÷
-657 | robot-return-to-origin|»úÆ÷ÈËÄÜ·ñ·µ»ØÔ­µã
-658 | find-k-closest-elements|ÕÒµ½ K ¸ö×î½Ó½üµÄÔªËØ
-659 | split-array-into-consecutive-subsequences|·Ö¸îÊı×éÎªÁ¬Ğø×ÓĞòÁĞ
-661 | image-smoother|Í¼Æ¬Æ½»¬Æ÷
-662 | maximum-width-of-binary-tree|¶ş²æÊ÷×î´ó¿í¶È
-664 | strange-printer|Ææ¹ÖµÄ´òÓ¡»ú
-665 | non-decreasing-array|·Çµİ¼õÊıÁĞ
-667 | beautiful-arrangement-ii|ÓÅÃÀµÄÅÅÁĞ II
-668 | kth-smallest-number-in-multiplication-table|³Ë·¨±íÖĞµÚkĞ¡µÄÊı
-669 | trim-a-binary-search-tree|ĞŞ¼ô¶ş²æËÑË÷Ê÷
-670 | maximum-swap|×î´ó½»»»
-671 | second-minimum-node-in-a-binary-tree|¶ş²æÊ÷ÖĞµÚ¶şĞ¡µÄ½Úµã
-672 | bulb-switcher-ii|µÆÅİ¿ª¹Ø ¢ò
-673 | number-of-longest-increasing-subsequence|×î³¤µİÔö×ÓĞòÁĞµÄ¸öÊı
-674 | longest-continuous-increasing-subsequence|×î³¤Á¬ĞøµİÔöĞòÁĞ
-675 | cut-off-trees-for-golf-event|Îª¸ß¶û·ò±ÈÈü¿³Ê÷
-676 | implement-magic-dictionary|ÊµÏÖÒ»¸öÄ§·¨×Öµä
-677 | map-sum-pairs|¼üÖµÓ³Éä
-678 | valid-parenthesis-string|ÓĞĞ§µÄÀ¨ºÅ×Ö·û´®
-679 | 24-game|24µãÓÎÏ·
-680 | valid-palindrome-ii|ÑéÖ¤»ØÎÄ×Ö·û´® ¢ò
-682 | baseball-game|°ôÇò±ÈÈü
-684 | redundant-connection|ÈßÓàÁ¬½Ó
-685 | redundant-connection-ii|ÈßÓàÁ¬½Ó II
-686 | repeated-string-match|ÖØ¸´µş¼Ó×Ö·û´®Æ¥Åä
-687 | longest-univalue-path|×î³¤Í¬ÖµÂ·¾¶
-688 | knight-probability-in-chessboard|¡°Âí¡±ÔÚÆåÅÌÉÏµÄ¸ÅÂÊ
-689 | maximum-sum-of-3-non-overlapping-subarrays|Èı¸öÎŞÖØµş×ÓÊı×éµÄ×î´óºÍ
-690 | employee-importance|Ô±¹¤µÄÖØÒªĞÔ
-691 | stickers-to-spell-word|ÌùÖ½Æ´´Ê
-692 | top-k-frequent-words|Ç°K¸ö¸ßÆµµ¥´Ê
-693 | binary-number-with-alternating-bits|½»ÌæÎ»¶ş½øÖÆÊı
-695 | max-area-of-island|µºÓìµÄ×î´óÃæ»ı
-696 | count-binary-substrings|¼ÆÊı¶ş½øÖÆ×Ó´®
-697 | degree-of-an-array|Êı×éµÄ¶È
-698 | partition-to-k-equal-sum-subsets|»®·ÖÎªk¸öÏàµÈµÄ×Ó¼¯
-699 | falling-squares|µôÂäµÄ·½¿é
-700 | search-in-a-binary-search-tree|¶ş²æËÑË÷Ê÷ÖĞµÄËÑË÷
-701 | insert-into-a-binary-search-tree|¶ş²æËÑË÷Ê÷ÖĞµÄ²åÈë²Ù×÷
-703 | kth-largest-element-in-a-stream|Êı¾İÁ÷ÖĞµÄµÚK´óÔªËØ
-704 | binary-search|¶ş·Ö²éÕÒ
-705 | design-hashset|Éè¼Æ¹şÏ£¼¯ºÏ
-706 | design-hashmap|Éè¼Æ¹şÏ£Ó³Éä
-707 | design-linked-list|Éè¼ÆÁ´±í
-709 | to-lower-case|×ª»»³ÉĞ¡Ğ´×ÖÄ¸
-710 | random-pick-with-blacklist|ºÚÃûµ¥ÖĞµÄËæ»úÊı
-712 | minimum-ascii-delete-sum-for-two-strings|Á½¸ö×Ö·û´®µÄ×îĞ¡ASCIIÉ¾³ıºÍ
-713 | subarray-product-less-than-k|³Ë»ıĞ¡ÓÚKµÄ×ÓÊı×é
-714 | best-time-to-buy-and-sell-stock-with-transaction-fee|ÂòÂô¹ÉÆ±µÄ×î¼ÑÊ±»úº¬ÊÖĞø·Ñ
-715 | range-module|Range Ä£¿é
-717 | 1-bit-and-2-bit-characters|1±ÈÌØÓë2±ÈÌØ×Ö·û
-718 | maximum-length-of-repeated-subarray|×î³¤ÖØ¸´×ÓÊı×é
-719 | find-k-th-smallest-pair-distance|ÕÒ³öµÚ k Ğ¡µÄ¾àÀë¶Ô
-720 | longest-word-in-dictionary|´ÊµäÖĞ×î³¤µÄµ¥´Ê
-721 | accounts-merge|ÕË»§ºÏ²¢
-722 | remove-comments|É¾³ı×¢ÊÍ
-724 | find-pivot-index|Ñ°ÕÒÊı×éµÄÖĞĞÄË÷Òı
-725 | split-linked-list-in-parts|·Ö¸ôÁ´±í
-726 | number-of-atoms|Ô­×ÓµÄÊıÁ¿
-728 | self-dividing-numbers|×Ô³ıÊı
-729 | my-calendar-i|ÎÒµÄÈÕ³Ì°²ÅÅ±í I
-730 | count-different-palindromic-subsequences|Í³¼Æ²»Í¬»ØÎÄ×Ó×Ö·û´®
-731 | my-calendar-ii|ÎÒµÄÈÕ³Ì°²ÅÅ±í II
-732 | my-calendar-iii|ÎÒµÄÈÕ³Ì°²ÅÅ±í III
-733 | flood-fill|Í¼ÏñäÖÈ¾
-735 | asteroid-collision|ĞĞĞÇÅö×²
-736 | parse-lisp-expression|Lisp Óï·¨½âÎö
-738 | monotone-increasing-digits|µ¥µ÷µİÔöµÄÊı×Ö
-739 | daily-temperatures|Ã¿ÈÕÎÂ¶È
-740 | delete-and-earn|É¾³ıÓë»ñµÃµãÊı
-741 | cherry-pickup|ÕªÓ£ÌÒ
-743 | network-delay-time|ÍøÂçÑÓ³ÙÊ±¼ä
-744 | find-smallest-letter-greater-than-target|Ñ°ÕÒ±ÈÄ¿±ê×ÖÄ¸´óµÄ×îĞ¡×ÖÄ¸
-745 | prefix-and-suffix-search|Ç°×ººÍºó×ºËÑË÷
-746 | min-cost-climbing-stairs|Ê¹ÓÃ×îĞ¡»¨·ÑÅÀÂ¥Ìİ
-747 | largest-number-at-least-twice-of-others|ÖÁÉÙÊÇÆäËûÊı×ÖÁ½±¶µÄ×î´óÊı
-748 | shortest-completing-word|×î¶ÌÍêÕû´Ê
-749 | contain-virus|¸ôÀë²¡¶¾
-752 | open-the-lock|´ò¿ª×ªÅÌËø
-753 | cracking-the-safe|ÆÆ½â±£ÏÕÏä
-754 | reach-a-number|µ½´ïÖÕµãÊı×Ö
-756 | pyramid-transition-matrix|½ğ×ÖËş×ª»»¾ØÕó
-757 | set-intersection-size-at-least-two| ÉèÖÃ½»¼¯´óĞ¡ÖÁÉÙÎª2
-761 | special-binary-string|ÌØÊâµÄ¶ş½øÖÆĞòÁĞ
-762 | prime-number-of-set-bits-in-binary-representation|¶ş½øÖÆ±íÊ¾ÖĞÖÊÊı¸ö¼ÆËãÖÃÎ»
-763 | partition-labels|»®·Ö×ÖÄ¸Çø¼ä
-764 | largest-plus-sign|×î´ó¼ÓºÅ±êÖ¾
-765 | couples-holding-hands|ÇéÂÂÇ£ÊÖ
-766 | toeplitz-matrix|ÍĞÆÕÀû´Ä¾ØÕó
-767 | reorganize-string|ÖØ¹¹×Ö·û´®
-768 | max-chunks-to-make-sorted-ii|×î¶àÄÜÍê³ÉÅÅĞòµÄ¿é II
-769 | max-chunks-to-make-sorted|×î¶àÄÜÍê³ÉÅÅĞòµÄ¿é
-770 | basic-calculator-iv|»ù±¾¼ÆËãÆ÷ IV
-771 | jewels-and-stones|±¦Ê¯ÓëÊ¯Í·
-773 | sliding-puzzle|»¬¶¯ÃÕÌâ
-775 | global-and-local-inversions|È«¾Öµ¹ÖÃÓë¾Ö²¿µ¹ÖÃ
-777 | swap-adjacent-in-lr-string|ÔÚLR×Ö·û´®ÖĞ½»»»ÏàÁÚ×Ö·û
-778 | swim-in-rising-water|Ë®Î»ÉÏÉıµÄÓ¾³ØÖĞÓÎÓ¾
-779 | k-th-symbol-in-grammar|µÚK¸öÓï·¨·ûºÅ
-780 | reaching-points|µ½´ïÖÕµã
-781 | rabbits-in-forest|É­ÁÖÖĞµÄÍÃ×Ó
-782 | transform-to-chessboard|±äÎªÆåÅÌ
-783 | minimum-distance-between-bst-nodes|¶ş²æËÑË÷Ê÷½áµã×îĞ¡¾àÀë
-784 | letter-case-permutation|×ÖÄ¸´óĞ¡Ğ´È«ÅÅÁĞ
-785 | is-graph-bipartite|ÅĞ¶Ï¶ş·ÖÍ¼
-786 | k-th-smallest-prime-fraction|µÚ K ¸ö×îĞ¡µÄËØÊı·ÖÊı
-787 | cheapest-flights-within-k-stops|K Õ¾ÖĞ×ªÄÚ×î±ãÒËµÄº½°à
-788 | rotated-digits|Ğı×ªÊı×Ö
-789 | escape-the-ghosts|ÌÓÍÑ×è°­Õß
-790 | domino-and-tromino-tiling|¶àÃ×ÅµºÍÍĞÃ×ÅµÆ½ÆÌ
-791 | custom-sort-string|×Ô¶¨Òå×Ö·û´®ÅÅĞò
-792 | number-of-matching-subsequences|Æ¥Åä×ÓĞòÁĞµÄµ¥´ÊÊı
-793 | preimage-size-of-factorial-zeroes-function|½×³Ëº¯ÊıºóK¸öÁã
-794 | valid-tic-tac-toe-state|ÓĞĞ§µÄ¾®×ÖÓÎÏ·
-795 | number-of-subarrays-with-bounded-maximum|Çø¼ä×ÓÊı×é¸öÊı
-796 | rotate-string|Ğı×ª×Ö·û´®
-797 | all-paths-from-source-to-target|ËùÓĞ¿ÉÄÜµÄÂ·¾¶
-798 | smallest-rotation-with-highest-score|µÃ·Ö×î¸ßµÄ×îĞ¡ÂÖµ÷
-799 | champagne-tower|ÏãéÄËş
-801 | minimum-swaps-to-make-sequences-increasing|Ê¹ĞòÁĞµİÔöµÄ×îĞ¡½»»»´ÎÊı
-802 | find-eventual-safe-states|ÕÒµ½×îÖÕµÄ°²È«×´Ì¬
-803 | bricks-falling-when-hit|´ò×©¿é
-804 | unique-morse-code-words|Î¨Ò»Ä¦¶ûË¹ÃÜÂë´Ê
-805 | split-array-with-same-average|Êı×éµÄ¾ùÖµ·Ö¸î
-806 | number-of-lines-to-write-string|Ğ´×Ö·û´®ĞèÒªµÄĞĞÊı
-807 | max-increase-to-keep-city-skyline|±£³Ö³ÇÊĞÌì¼ÊÏß
-808 | soup-servings|·ÖÌÀ
-809 | expressive-words|Çé¸Ğ·á¸»µÄÎÄ×Ö
-810 | chalkboard-xor-game|ºÚ°åÒì»òÓÎÏ·
-811 | subdomain-visit-count|×ÓÓòÃû·ÃÎÊ¼ÆÊı
-812 | largest-triangle-area|×î´óÈı½ÇĞÎÃæ»ı
-813 | largest-sum-of-averages|×î´óÆ½¾ùÖµºÍµÄ·Ö×é
-814 | binary-tree-pruning|¶ş²æÊ÷¼ôÖ¦
-815 | bus-routes|¹«½»Â·Ïß
-816 | ambiguous-coordinates|Ä£ºı×ø±ê
-817 | linked-list-components|Á´±í×é¼ş
-818 | race-car|Èü³µ
-819 | most-common-word|×î³£¼ûµÄµ¥´Ê
-820 | short-encoding-of-words|µ¥´ÊµÄÑ¹Ëõ±àÂë
-821 | shortest-distance-to-a-character|×Ö·ûµÄ×î¶Ì¾àÀë
-822 | card-flipping-game|·­×ª¿¨Æ¬ÓÎÏ·
-823 | binary-trees-with-factors|´øÒò×ÓµÄ¶ş²æÊ÷
-824 | goat-latin|É½ÑòÀ­¶¡ÎÄ
-825 | friends-of-appropriate-ages|ÊÊÁäµÄÅóÓÑ
-826 | most-profit-assigning-work|°²ÅÅ¹¤×÷ÒÔ´ïµ½×î´óÊÕÒæ
-827 | making-a-large-island|×î´óÈË¹¤µº
-828 | unique-letter-string|¶ÀÌØ×Ö·û´®
-829 | consecutive-numbers-sum|Á¬ĞøÕûÊıÇóºÍ
-830 | positions-of-large-groups|½Ï´ó·Ö×éµÄÎ»ÖÃ
-831 | masking-personal-information|Òş²Ø¸öÈËĞÅÏ¢
-832 | flipping-an-image|·­×ªÍ¼Ïñ
-833 | find-and-replace-in-string|×Ö·û´®ÖĞµÄ²éÕÒÓëÌæ»»
-834 | sum-of-distances-in-tree|Ê÷ÖĞ¾àÀëÖ®ºÍ
-835 | image-overlap|Í¼ÏñÖØµş
-836 | rectangle-overlap|¾ØĞÎÖØµş
-837 | new-21-game|ĞÂ21µã
-838 | push-dominoes|ÍÆ¶àÃ×Åµ
-839 | similar-string-groups|ÏàËÆ×Ö·û´®×é
-840 | magic-squares-in-grid|¾ØÕóÖĞµÄ»Ã·½
-841 | keys-and-rooms|Ô¿³×ºÍ·¿¼ä
-842 | split-array-into-fibonacci-sequence|½«Êı×é²ğ·Ö³Éì³²¨ÄÇÆõĞòÁĞ
-843 | guess-the-word|²Â²ÂÕâ¸öµ¥´Ê
-844 | backspace-string-compare|±È½Ïº¬ÍË¸ñµÄ×Ö·û´®
-845 | longest-mountain-in-array|Êı×éÖĞµÄ×î³¤É½Âö
-846 | hand-of-straights|Ò»ÊÖË³×Ó
-847 | shortest-path-visiting-all-nodes|·ÃÎÊËùÓĞ½ÚµãµÄ×î¶ÌÂ·¾¶
-848 | shifting-letters|×ÖÄ¸ÒÆÎ»
-849 | maximize-distance-to-closest-person|µ½×î½üµÄÈËµÄ×î´ó¾àÀë
-850 | rectangle-area-ii|¾ØĞÎÃæ»ı II
-851 | loud-and-rich|ĞúÄÖºÍ¸»ÓĞ
-852 | peak-index-in-a-mountain-array|É½ÂöÊı×éµÄ·å¶¥Ë÷Òı
-853 | car-fleet|³µ¶Ó
-854 | k-similar-strings|ÏàËÆ¶ÈÎª K µÄ×Ö·û´®
-855 | exam-room|¿¼³¡¾Í×ù
-856 | score-of-parentheses|À¨ºÅµÄ·ÖÊı
-857 | minimum-cost-to-hire-k-workers|¹ÍÓ¶ K Ãû¹¤ÈËµÄ×îµÍ³É±¾
-858 | mirror-reflection|¾µÃæ·´Éä
-859 | buddy-strings|Ç×ÃÜ×Ö·û´®
-860 | lemonade-change|ÄûÃÊË®ÕÒÁã
-861 | score-after-flipping-matrix|·­×ª¾ØÕóºóµÄµÃ·Ö
-862 | shortest-subarray-with-sum-at-least-k|ºÍÖÁÉÙÎª K µÄ×î¶Ì×ÓÊı×é
-863 | all-nodes-distance-k-in-binary-tree|¶ş²æÊ÷ÖĞËùÓĞ¾àÀëÎª K µÄ½áµã
-864 | shortest-path-to-get-all-keys|»ñÈ¡ËùÓĞÔ¿³×µÄ×î¶ÌÂ·¾¶
-865 | smallest-subtree-with-all-the-deepest-nodes|¾ßÓĞËùÓĞ×îÉî½áµãµÄ×îĞ¡×ÓÊ÷
-866 | prime-palindrome|»ØÎÄËØÊı
-867 | transpose-matrix|×ªÖÃ¾ØÕó
-868 | binary-gap|¶ş½øÖÆ¼ä¾à
-869 | reordered-power-of-2|ÖØĞÂÅÅĞòµÃµ½ 2 µÄÃİ
-870 | advantage-shuffle|ÓÅÊÆÏ´ÅÆ
-871 | minimum-number-of-refueling-stops|×îµÍ¼ÓÓÍ´ÎÊı
-872 | leaf-similar-trees|Ò¶×ÓÏàËÆµÄÊ÷
-873 | length-of-longest-fibonacci-subsequence|×î³¤µÄì³²¨ÄÇÆõ×ÓĞòÁĞµÄ³¤¶È
-874 | walking-robot-simulation|Ä£ÄâĞĞ×ß»úÆ÷ÈË
-875 | koko-eating-bananas|°®³ÔÏã½¶µÄçæçæ
-876 | middle-of-the-linked-list|Á´±íµÄÖĞ¼ä½áµã
-877 | stone-game|Ê¯×ÓÓÎÏ·
-878 | nth-magical-number|µÚ N ¸öÉñÆæÊı×Ö
-879 | profitable-schemes|Ó¯Àû¼Æ»®
-880 | decoded-string-at-index|Ë÷Òı´¦µÄ½âÂë×Ö·û´®
-881 | boats-to-save-people|¾ÈÉúÍ§
-882 | reachable-nodes-in-subdivided-graph|Ï¸·ÖÍ¼ÖĞµÄ¿Éµ½´ï½áµã
-883 | projection-area-of-3d-shapes|ÈıÎ¬ĞÎÌåÍ¶Ó°Ãæ»ı
-884 | uncommon-words-from-two-sentences|Á½¾ä»°ÖĞµÄ²»³£¼ûµ¥´Ê
-885 | spiral-matrix-iii|ÂİĞı¾ØÕó III
-886 | possible-bipartition|¿ÉÄÜµÄ¶ş·Ö·¨
-887 | super-egg-drop|¼¦µ°µôÂä
-888 | fair-candy-swap|¹«Æ½µÄÌÇ¹û½»»»
-889 | construct-binary-tree-from-preorder-and-postorder-traversal|¸ù¾İÇ°ĞòºÍºóĞò±éÀú¹¹Ôì¶ş²æÊ÷
-890 | find-and-replace-pattern|²éÕÒºÍÌæ»»Ä£Ê½
-891 | sum-of-subsequence-widths|×ÓĞòÁĞ¿í¶ÈÖ®ºÍ
-892 | surface-area-of-3d-shapes|ÈıÎ¬ĞÎÌåµÄ±íÃæ»ı
-893 | groups-of-special-equivalent-strings|ÌØÊâµÈ¼Û×Ö·û´®×é
-894 | all-possible-full-binary-trees|ËùÓĞ¿ÉÄÜµÄÂú¶ş²æÊ÷
-895 | maximum-frequency-stack|×î´óÆµÂÊÕ»
-896 | monotonic-array|µ¥µ÷ÊıÁĞ
-897 | increasing-order-search-tree|µİÔöË³Ğò²éÕÒÊ÷
-898 | bitwise-ors-of-subarrays|×ÓÊı×é°´Î»»ò²Ù×÷
-899 | orderly-queue|ÓĞĞò¶ÓÁĞ
-900 | rle-iterator|RLE µü´úÆ÷
-901 | online-stock-span|¹ÉÆ±¼Û¸ñ¿ç¶È
-902 | numbers-at-most-n-given-digit-set|×î´óÎª N µÄÊı×Ö×éºÏ
-903 | valid-permutations-for-di-sequence|DI ĞòÁĞµÄÓĞĞ§ÅÅÁĞ
-904 | fruit-into-baskets|Ë®¹û³ÉÀº
-905 | sort-array-by-parity|°´ÆæÅ¼ÅÅĞòÊı×é
-906 | super-palindromes|³¬¼¶»ØÎÄÊı
-907 | sum-of-subarray-minimums|×ÓÊı×éµÄ×îĞ¡ÖµÖ®ºÍ
-908 | smallest-range-i|×îĞ¡²îÖµ I
-909 | snakes-and-ladders|ÉßÌİÆå
-910 | smallest-range-ii|×îĞ¡²îÖµ II
-911 | online-election|ÔÚÏßÑ¡¾Ù
-913 | cat-and-mouse|Ã¨ºÍÀÏÊó
-914 | x-of-a-kind-in-a-deck-of-cards|¿¨ÅÆ·Ö×é
-915 | partition-array-into-disjoint-intervals|·Ö¸îÊı×é
-916 | word-subsets|µ¥´Ê×Ó¼¯
-917 | reverse-only-letters|½ö½ö·´×ª×ÖÄ¸
-918 | maximum-sum-circular-subarray|»·ĞÎ×ÓÊı×éµÄ×î´óºÍ
-919 | complete-binary-tree-inserter|ÍêÈ«¶ş²æÊ÷²åÈëÆ÷
-920 | number-of-music-playlists|²¥·ÅÁĞ±íµÄÊıÁ¿
-921 | minimum-add-to-make-parentheses-valid|Ê¹À¨ºÅÓĞĞ§µÄ×îÉÙÌí¼Ó
-922 | sort-array-by-parity-ii|°´ÆæÅ¼ÅÅĞòÊı×é II
-923 | 3sum-with-multiplicity|ÈıÊıÖ®ºÍµÄ¶àÖÖ¿ÉÄÜ
-924 | minimize-malware-spread|¾¡Á¿¼õÉÙ¶ñÒâÈí¼şµÄ´«²¥
-925 | long-pressed-name|³¤°´¼üÈë
-926 | flip-string-to-monotone-increasing|½«×Ö·û´®·­×ªµ½µ¥µ÷µİÔö
-927 | three-equal-parts|ÈıµÈ·Ö
-928 | minimize-malware-spread-ii|¾¡Á¿¼õÉÙ¶ñÒâÈí¼şµÄ´«²¥ II
-929 | unique-email-addresses|¶ÀÌØµÄµç×ÓÓÊ¼şµØÖ·
-930 | binary-subarrays-with-sum|ºÍÏàÍ¬µÄ¶şÔª×ÓÊı×é
-931 | minimum-falling-path-sum|ÏÂ½µÂ·¾¶×îĞ¡ºÍ
-932 | beautiful-array|Æ¯ÁÁÊı×é
-933 | number-of-recent-calls|×î½üµÄÇëÇó´ÎÊı
-934 | shortest-bridge|×î¶ÌµÄÇÅ
-935 | knight-dialer|ÆïÊ¿²¦ºÅÆ÷
-936 | stamping-the-sequence|´ÁÓ¡ĞòÁĞ
-937 | reorder-log-files|ÖØĞÂÅÅÁĞÈÕÖ¾ÎÄ¼ş
-938 | range-sum-of-bst|¶ş²æËÑË÷Ê÷µÄ·¶Î§ºÍ
-939 | minimum-area-rectangle|×îĞ¡Ãæ»ı¾ØĞÎ
-940 | distinct-subsequences-ii|²»Í¬µÄ×ÓĞòÁĞ II
-941 | valid-mountain-array|ÓĞĞ§µÄÉ½ÂöÊı×é
-942 | di-string-match|Ôö¼õ×Ö·û´®Æ¥Åä
-943 | find-the-shortest-superstring|×î¶Ì³¬¼¶´®
-944 | delete-columns-to-make-sorted|É¾ÁĞÔìĞò
-945 | minimum-increment-to-make-array-unique|Ê¹Êı×éÎ¨Ò»µÄ×îĞ¡ÔöÁ¿
-946 | validate-stack-sequences|ÑéÖ¤Õ»ĞòÁĞ
-947 | most-stones-removed-with-same-row-or-column|ÒÆ³ı×î¶àµÄÍ¬ĞĞ»òÍ¬ÁĞÊ¯Í·
-948 | bag-of-tokens|ÁîÅÆ·ÅÖÃ
-949 | largest-time-for-given-digits|¸ø¶¨Êı×ÖÄÜ×é³ÉµÄ×î´óÊ±¼ä
-950 | reveal-cards-in-increasing-order|°´µİÔöË³ĞòÏÔÊ¾¿¨ÅÆ
-951 | flip-equivalent-binary-trees|·­×ªµÈ¼Û¶ş²æÊ÷
-952 | largest-component-size-by-common-factor|°´¹«ÒòÊı¼ÆËã×î´ó×é¼ş´óĞ¡
-953 | verifying-an-alien-dictionary|ÑéÖ¤ÍâĞÇÓï´Êµä
-954 | array-of-doubled-pairs|¶ş±¶Êı¶ÔÊı×é
-955 | delete-columns-to-make-sorted-ii|É¾ÁĞÔìĞò II
-956 | tallest-billboard|×î¸ßµÄ¹ã¸æÅÆ
-957 | prison-cells-after-n-days|N ÌìºóµÄÀÎ·¿
-958 | check-completeness-of-a-binary-tree|¶ş²æÊ÷µÄÍêÈ«ĞÔ¼ìÑé
-959 | regions-cut-by-slashes|ÓÉĞ±¸Ü»®·ÖÇøÓò
-960 | delete-columns-to-make-sorted-iii|É¾ÁĞÔìĞò III
-961 | n-repeated-element-in-size-2n-array|ÖØ¸´ N ´ÎµÄÔªËØ
-962 | maximum-width-ramp|×î´ó¿í¶ÈÆÂ
-963 | minimum-area-rectangle-ii|×îĞ¡Ãæ»ı¾ØĞÎ II
-964 | least-operators-to-express-number|±íÊ¾Êı×ÖµÄ×îÉÙÔËËã·û
-965 | univalued-binary-tree|µ¥Öµ¶ş²æÊ÷
-966 | vowel-spellchecker|ÔªÒôÆ´Ğ´¼ì²éÆ÷
-967 | numbers-with-same-consecutive-differences|Á¬Ğø²îÏàÍ¬µÄÊı×Ö
-968 | binary-tree-cameras|¼à¿Ø¶ş²æÊ÷
-969 | pancake-sorting|¼å±ıÅÅĞò
-970 | powerful-integers|Ç¿ÕûÊı
-971 | flip-binary-tree-to-match-preorder-traversal|·­×ª¶ş²æÊ÷ÒÔÆ¥ÅäÏÈĞò±éÀú
-972 | equal-rational-numbers|ÏàµÈµÄÓĞÀíÊı
-973 | k-closest-points-to-origin|×î½Ó½üÔ­µãµÄ K ¸öµã
-974 | subarray-sums-divisible-by-k|ºÍ¿É±» K Õû³ıµÄ×ÓÊı×é
-975 | odd-even-jump|ÆæÅ¼Ìø
-976 | largest-perimeter-triangle|Èı½ÇĞÎµÄ×î´óÖÜ³¤
-977 | squares-of-a-sorted-array|ÓĞĞòÊı×éµÄÆ½·½
-978 | longest-turbulent-subarray|×î³¤ÍÄÁ÷×ÓÊı×é
-979 | distribute-coins-in-binary-tree|ÔÚ¶ş²æÊ÷ÖĞ·ÖÅäÓ²±Ò
-980 | unique-paths-iii|²»Í¬Â·¾¶ III
-981 | time-based-key-value-store|»ùÓÚÊ±¼äµÄ¼üÖµ´æ´¢
-982 | triples-with-bitwise-and-equal-to-zero|°´Î»ÓëÎªÁãµÄÈıÔª×é
-983 | minimum-cost-for-tickets|×îµÍÆ±¼Û
-984 | string-without-aaa-or-bbb|²»º¬ AAA »ò BBB µÄ×Ö·û´®
-985 | sum-of-even-numbers-after-queries|²éÑ¯ºóµÄÅ¼ÊıºÍ
-986 | interval-list-intersections|Çø¼äÁĞ±íµÄ½»¼¯
-987 | vertical-order-traversal-of-a-binary-tree|¶ş²æÊ÷µÄ´¹Ğò±éÀú
-988 | smallest-string-starting-from-leaf|´ÓÒ¶½áµã¿ªÊ¼µÄ×îĞ¡×Ö·û´®
-989 | add-to-array-form-of-integer|Êı×éĞÎÊ½µÄÕûÊı¼Ó·¨
-990 | satisfiability-of-equality-equations|µÈÊ½·½³ÌµÄ¿ÉÂú×ãĞÔ
-991 | broken-calculator|»µÁËµÄ¼ÆËãÆ÷
-992 | subarrays-with-k-different-integers|K ¸ö²»Í¬ÕûÊıµÄ×ÓÊı×é
-993 | cousins-in-binary-tree|¶ş²æÊ÷µÄÌÃĞÖµÜ½Úµã
-994 | rotting-oranges|¸¯ÀÃµÄéÙ×Ó
-995 | minimum-number-of-k-consecutive-bit-flips|K Á¬ĞøÎ»µÄ×îĞ¡·­×ª´ÎÊı
-996 | number-of-squareful-arrays|Õı·½ĞÎÊı×éµÄÊıÄ¿
-997 | find-the-town-judge|ÕÒµ½Ğ¡ÕòµÄ·¨¹Ù
-998 | maximum-binary-tree-ii|×î´ó¶ş²æÊ÷ II
-999 | available-captures-for-rook|³µµÄ¿ÉÓÃ²¶»ñÁ¿
-1000 | minimum-cost-to-merge-stones|ºÏ²¢Ê¯Í·µÄ×îµÍ³É±¾
-1001 | grid-illumination|Íø¸ñÕÕÃ÷
-1002 | find-common-characters|²éÕÒ³£ÓÃ×Ö·û
-1003 | check-if-word-is-valid-after-substitutions|¼ì²éÌæ»»ºóµÄ´ÊÊÇ·ñÓĞĞ§
-1004 | max-consecutive-ones-iii|×î´óÁ¬Ğø1µÄ¸öÊı III
-1005 | maximize-sum-of-array-after-k-negations|K ´ÎÈ¡·´ºó×î´ó»¯µÄÊı×éºÍ
-1006 | clumsy-factorial|±¿½×³Ë
-1007 | minimum-domino-rotations-for-equal-row|ĞĞÏàµÈµÄ×îÉÙ¶àÃ×ÅµĞı×ª
-1008 | construct-binary-search-tree-from-preorder-traversal|ÏÈĞò±éÀú¹¹Ôì¶ş²æÊ÷
-1009 | complement-of-base-10-integer|Ê®½øÖÆÕûÊıµÄ·´Âë
-1010 | pairs-of-songs-with-total-durations-divisible-by-60|×Ü³ÖĞøÊ±¼ä¿É±» 60 Õû³ıµÄ¸èÇú
-1011 | capacity-to-ship-packages-within-d-days|ÔÚ D ÌìÄÚËÍ´ï°ü¹üµÄÄÜÁ¦
-1012 | numbers-with-repeated-digits|ÖÁÉÙÓĞ 1 Î»ÖØ¸´µÄÊı×Ö
-1013 | partition-array-into-three-parts-with-equal-sum|½«Êı×é·Ö³ÉºÍÏàµÈµÄÈı¸ö²¿·Ö
-1014 | best-sightseeing-pair|×î¼Ñ¹Û¹â×éºÏ
-1015 | smallest-integer-divisible-by-k|¿É±» K Õû³ıµÄ×îĞ¡ÕûÊı
-1016 | binary-string-with-substrings-representing-1-to-n|×Ó´®ÄÜ±íÊ¾´Ó 1 µ½ N Êı×ÖµÄ¶ş½øÖÆ´®
-1017 | convert-to-base-2|¸º¶ş½øÖÆ×ª»»
-1018 | binary-prefix-divisible-by-5|¿É±» 5 Õû³ıµÄ¶ş½øÖÆÇ°×º
-1019 | next-greater-node-in-linked-list|Á´±íÖĞµÄÏÂÒ»¸ö¸ü´ó½Úµã
-1020 | number-of-enclaves|·ÉµØµÄÊıÁ¿
+503 | next-greater-element-ii|ä¸‹ä¸€ä¸ªæ›´å¤§å…ƒç´  II
+504 | base-7|ä¸ƒè¿›åˆ¶æ•°
+506 | relative-ranks|ç›¸å¯¹åæ¬¡
+507 | perfect-number|å®Œç¾æ•°
+508 | most-frequent-subtree-sum|å‡ºç°æ¬¡æ•°æœ€å¤šçš„å­æ ‘å…ƒç´ å’Œ
+509 | fibonacci-number|æ–æ³¢é‚£å¥‘æ•°
+513 | find-bottom-left-tree-value|æ‰¾æ ‘å·¦ä¸‹è§’çš„å€¼
+514 | freedom-trail|è‡ªç”±ä¹‹è·¯
+515 | find-largest-value-in-each-tree-row|åœ¨æ¯ä¸ªæ ‘è¡Œä¸­æ‰¾æœ€å¤§å€¼
+516 | longest-palindromic-subsequence|æœ€é•¿å›æ–‡å­åºåˆ—
+517 | super-washing-machines|è¶…çº§æ´—è¡£æœº
+518 | coin-change-2|é›¶é’±å…‘æ¢ II
+519 | random-flip-matrix|éšæœºç¿»è½¬çŸ©é˜µ
+520 | detect-capital|æ£€æµ‹å¤§å†™å­—æ¯
+521 | longest-uncommon-subsequence-i|æœ€é•¿ç‰¹æ®Šåºåˆ— â… 
+522 | longest-uncommon-subsequence-ii|æœ€é•¿ç‰¹æ®Šåºåˆ— II
+523 | continuous-subarray-sum|è¿ç»­çš„å­æ•°ç»„å’Œ
+524 | longest-word-in-dictionary-through-deleting|é€šè¿‡åˆ é™¤å­—æ¯åŒ¹é…åˆ°å­—å…¸é‡Œæœ€é•¿å•è¯
+525 | contiguous-array|è¿ç»­æ•°ç»„
+526 | beautiful-arrangement|ä¼˜ç¾çš„æ’åˆ—
+528 | random-pick-with-weight|æŒ‰æƒé‡éšæœºé€‰æ‹©
+529 | minesweeper|æ‰«é›·æ¸¸æˆ
+530 | minimum-absolute-difference-in-bst|äºŒå‰æœç´¢æ ‘çš„æœ€å°ç»å¯¹å·®
+532 | k-diff-pairs-in-an-array|æ•°ç»„ä¸­çš„K-diffæ•°å¯¹
+535 | encode-and-decode-tinyurl|TinyURL çš„åŠ å¯†ä¸è§£å¯†
+537 | complex-number-multiplication|å¤æ•°ä¹˜æ³•
+538 | convert-bst-to-greater-tree|æŠŠäºŒå‰æœç´¢æ ‘è½¬æ¢ä¸ºç´¯åŠ æ ‘
+539 | minimum-time-difference|æœ€å°æ—¶é—´å·®
+540 | single-element-in-a-sorted-array|æœ‰åºæ•°ç»„ä¸­çš„å•ä¸€å…ƒç´ 
+541 | reverse-string-ii|åè½¬å­—ç¬¦ä¸² II
+542 | 01-matrix|01 çŸ©é˜µ
+543 | diameter-of-binary-tree|äºŒå‰æ ‘çš„ç›´å¾„
+546 | remove-boxes|ç§»é™¤ç›’å­
+547 | friend-circles|æœ‹å‹åœˆ
+551 | student-attendance-record-i|å­¦ç”Ÿå‡ºå‹¤è®°å½• I
+552 | student-attendance-record-ii|å­¦ç”Ÿå‡ºå‹¤è®°å½• II
+553 | optimal-division|æœ€ä¼˜é™¤æ³•
+554 | brick-wall|ç –å¢™
+556 | next-greater-element-iii|ä¸‹ä¸€ä¸ªæ›´å¤§å…ƒç´  III
+557 | reverse-words-in-a-string-iii|åè½¬å­—ç¬¦ä¸²ä¸­çš„å•è¯ III
+558 | quad-tree-intersection|å››å‰æ ‘äº¤é›†
+559 | maximum-depth-of-n-ary-tree|Nå‰æ ‘çš„æœ€å¤§æ·±åº¦
+560 | subarray-sum-equals-k|å’Œä¸ºKçš„å­æ•°ç»„
+561 | array-partition-i|æ•°ç»„æ‹†åˆ† I
+563 | binary-tree-tilt|äºŒå‰æ ‘çš„å¡åº¦
+564 | find-the-closest-palindrome|å¯»æ‰¾æœ€è¿‘çš„å›æ–‡æ•°
+565 | array-nesting|æ•°ç»„åµŒå¥—
+566 | reshape-the-matrix|é‡å¡‘çŸ©é˜µ
+567 | permutation-in-string|å­—ç¬¦ä¸²çš„æ’åˆ—
+572 | subtree-of-another-tree|å¦ä¸€ä¸ªæ ‘çš„å­æ ‘
+575 | distribute-candies|åˆ†ç³–æœ
+576 | out-of-boundary-paths|å‡ºç•Œçš„è·¯å¾„æ•°
+581 | shortest-unsorted-continuous-subarray|æœ€çŸ­æ— åºè¿ç»­å­æ•°ç»„
+583 | delete-operation-for-two-strings|ä¸¤ä¸ªå­—ç¬¦ä¸²çš„åˆ é™¤æ“ä½œ
+587 | erect-the-fence|å®‰è£…æ …æ 
+589 | n-ary-tree-preorder-traversal|Nå‰æ ‘çš„å‰åºéå†
+590 | n-ary-tree-postorder-traversal|Nå‰æ ‘çš„ååºéå†
+591 | tag-validator|æ ‡ç­¾éªŒè¯å™¨
+592 | fraction-addition-and-subtraction|åˆ†æ•°åŠ å‡è¿ç®—
+593 | valid-square|æœ‰æ•ˆçš„æ­£æ–¹å½¢
+594 | longest-harmonious-subsequence|æœ€é•¿å’Œè°å­åºåˆ—
+595 | big-countries|å¤§çš„å›½å®¶
+596 | classes-more-than-5-students|è¶…è¿‡5åå­¦ç”Ÿçš„è¯¾
+598 | range-addition-ii|èŒƒå›´æ±‚å’Œ II
+599 | minimum-index-sum-of-two-lists|ä¸¤ä¸ªåˆ—è¡¨çš„æœ€å°ç´¢å¼•æ€»å’Œ
+600 | non-negative-integers-without-consecutive-ones|ä¸å«è¿ç»­1çš„éè´Ÿæ•´æ•°
+601 | human-traffic-of-stadium|ä½“è‚²é¦†çš„äººæµé‡
+605 | can-place-flowers|ç§èŠ±é—®é¢˜
+606 | construct-string-from-binary-tree|æ ¹æ®äºŒå‰æ ‘åˆ›å»ºå­—ç¬¦ä¸²
+609 | find-duplicate-file-in-system|åœ¨ç³»ç»Ÿä¸­æŸ¥æ‰¾é‡å¤æ–‡ä»¶
+611 | valid-triangle-number|æœ‰æ•ˆä¸‰è§’å½¢çš„ä¸ªæ•°
+617 | merge-two-binary-trees|åˆå¹¶äºŒå‰æ ‘
+620 | not-boring-movies|æœ‰è¶£çš„ç”µå½±
+621 | task-scheduler|ä»»åŠ¡è°ƒåº¦å™¨
+622 | design-circular-queue|è®¾è®¡å¾ªç¯é˜Ÿåˆ—
+623 | add-one-row-to-tree|åœ¨äºŒå‰æ ‘ä¸­å¢åŠ ä¸€è¡Œ
+626 | exchange-seats|æ¢åº§ä½
+627 | swap-salary|äº¤æ¢å·¥èµ„
+628 | maximum-product-of-three-numbers|ä¸‰ä¸ªæ•°çš„æœ€å¤§ä¹˜ç§¯
+629 | k-inverse-pairs-array|Kä¸ªé€†åºå¯¹æ•°ç»„
+630 | course-schedule-iii|è¯¾ç¨‹è¡¨ III
+632 | smallest-range|æœ€å°åŒºé—´
+633 | sum-of-square-numbers|å¹³æ–¹æ•°ä¹‹å’Œ
+636 | exclusive-time-of-functions|å‡½æ•°çš„ç‹¬å æ—¶é—´
+637 | average-of-levels-in-binary-tree|äºŒå‰æ ‘çš„å±‚å¹³å‡å€¼
+638 | shopping-offers|å¤§ç¤¼åŒ…
+639 | decode-ways-ii|è§£ç æ–¹æ³• 2
+640 | solve-the-equation|æ±‚è§£æ–¹ç¨‹
+641 | design-circular-deque|è®¾è®¡å¾ªç¯åŒç«¯é˜Ÿåˆ—
+643 | maximum-average-subarray-i|å­æ•°ç»„æœ€å¤§å¹³å‡æ•° I
+645 | set-mismatch|é”™è¯¯çš„é›†åˆ
+646 | maximum-length-of-pair-chain|æœ€é•¿æ•°å¯¹é“¾
+647 | palindromic-substrings|å›æ–‡å­ä¸²
+648 | replace-words|å•è¯æ›¿æ¢
+649 | dota2-senate|Dota2 å‚è®®é™¢
+650 | 2-keys-keyboard|åªæœ‰ä¸¤ä¸ªé”®çš„é”®ç›˜
+652 | find-duplicate-subtrees|å¯»æ‰¾é‡å¤çš„å­æ ‘
+653 | two-sum-iv-input-is-a-bst|ä¸¤æ•°ä¹‹å’Œ IV - è¾“å…¥ BST
+654 | maximum-binary-tree|æœ€å¤§äºŒå‰æ ‘
+655 | print-binary-tree|è¾“å‡ºäºŒå‰æ ‘
+657 | robot-return-to-origin|æœºå™¨äººèƒ½å¦è¿”å›åŸç‚¹
+658 | find-k-closest-elements|æ‰¾åˆ° K ä¸ªæœ€æ¥è¿‘çš„å…ƒç´ 
+659 | split-array-into-consecutive-subsequences|åˆ†å‰²æ•°ç»„ä¸ºè¿ç»­å­åºåˆ—
+661 | image-smoother|å›¾ç‰‡å¹³æ»‘å™¨
+662 | maximum-width-of-binary-tree|äºŒå‰æ ‘æœ€å¤§å®½åº¦
+664 | strange-printer|å¥‡æ€ªçš„æ‰“å°æœº
+665 | non-decreasing-array|éé€’å‡æ•°åˆ—
+667 | beautiful-arrangement-ii|ä¼˜ç¾çš„æ’åˆ— II
+668 | kth-smallest-number-in-multiplication-table|ä¹˜æ³•è¡¨ä¸­ç¬¬kå°çš„æ•°
+669 | trim-a-binary-search-tree|ä¿®å‰ªäºŒå‰æœç´¢æ ‘
+670 | maximum-swap|æœ€å¤§äº¤æ¢
+671 | second-minimum-node-in-a-binary-tree|äºŒå‰æ ‘ä¸­ç¬¬äºŒå°çš„èŠ‚ç‚¹
+672 | bulb-switcher-ii|ç¯æ³¡å¼€å…³ â…¡
+673 | number-of-longest-increasing-subsequence|æœ€é•¿é€’å¢å­åºåˆ—çš„ä¸ªæ•°
+674 | longest-continuous-increasing-subsequence|æœ€é•¿è¿ç»­é€’å¢åºåˆ—
+675 | cut-off-trees-for-golf-event|ä¸ºé«˜å°”å¤«æ¯”èµ›ç æ ‘
+676 | implement-magic-dictionary|å®ç°ä¸€ä¸ªé­”æ³•å­—å…¸
+677 | map-sum-pairs|é”®å€¼æ˜ å°„
+678 | valid-parenthesis-string|æœ‰æ•ˆçš„æ‹¬å·å­—ç¬¦ä¸²
+679 | 24-game|24ç‚¹æ¸¸æˆ
+680 | valid-palindrome-ii|éªŒè¯å›æ–‡å­—ç¬¦ä¸² â…¡
+682 | baseball-game|æ£’çƒæ¯”èµ›
+684 | redundant-connection|å†—ä½™è¿æ¥
+685 | redundant-connection-ii|å†—ä½™è¿æ¥ II
+686 | repeated-string-match|é‡å¤å åŠ å­—ç¬¦ä¸²åŒ¹é…
+687 | longest-univalue-path|æœ€é•¿åŒå€¼è·¯å¾„
+688 | knight-probability-in-chessboard|â€œé©¬â€åœ¨æ£‹ç›˜ä¸Šçš„æ¦‚ç‡
+689 | maximum-sum-of-3-non-overlapping-subarrays|ä¸‰ä¸ªæ— é‡å å­æ•°ç»„çš„æœ€å¤§å’Œ
+690 | employee-importance|å‘˜å·¥çš„é‡è¦æ€§
+691 | stickers-to-spell-word|è´´çº¸æ‹¼è¯
+692 | top-k-frequent-words|å‰Kä¸ªé«˜é¢‘å•è¯
+693 | binary-number-with-alternating-bits|äº¤æ›¿ä½äºŒè¿›åˆ¶æ•°
+695 | max-area-of-island|å²›å±¿çš„æœ€å¤§é¢ç§¯
+696 | count-binary-substrings|è®¡æ•°äºŒè¿›åˆ¶å­ä¸²
+697 | degree-of-an-array|æ•°ç»„çš„åº¦
+698 | partition-to-k-equal-sum-subsets|åˆ’åˆ†ä¸ºkä¸ªç›¸ç­‰çš„å­é›†
+699 | falling-squares|æ‰è½çš„æ–¹å—
+700 | search-in-a-binary-search-tree|äºŒå‰æœç´¢æ ‘ä¸­çš„æœç´¢
+701 | insert-into-a-binary-search-tree|äºŒå‰æœç´¢æ ‘ä¸­çš„æ’å…¥æ“ä½œ
+703 | kth-largest-element-in-a-stream|æ•°æ®æµä¸­çš„ç¬¬Kå¤§å…ƒç´ 
+704 | binary-search|äºŒåˆ†æŸ¥æ‰¾
+705 | design-hashset|è®¾è®¡å“ˆå¸Œé›†åˆ
+706 | design-hashmap|è®¾è®¡å“ˆå¸Œæ˜ å°„
+707 | design-linked-list|è®¾è®¡é“¾è¡¨
+709 | to-lower-case|è½¬æ¢æˆå°å†™å­—æ¯
+710 | random-pick-with-blacklist|é»‘åå•ä¸­çš„éšæœºæ•°
+712 | minimum-ascii-delete-sum-for-two-strings|ä¸¤ä¸ªå­—ç¬¦ä¸²çš„æœ€å°ASCIIåˆ é™¤å’Œ
+713 | subarray-product-less-than-k|ä¹˜ç§¯å°äºKçš„å­æ•°ç»„
+714 | best-time-to-buy-and-sell-stock-with-transaction-fee|ä¹°å–è‚¡ç¥¨çš„æœ€ä½³æ—¶æœºå«æ‰‹ç»­è´¹
+715 | range-module|Range æ¨¡å—
+717 | 1-bit-and-2-bit-characters|1æ¯”ç‰¹ä¸2æ¯”ç‰¹å­—ç¬¦
+718 | maximum-length-of-repeated-subarray|æœ€é•¿é‡å¤å­æ•°ç»„
+719 | find-k-th-smallest-pair-distance|æ‰¾å‡ºç¬¬ k å°çš„è·ç¦»å¯¹
+720 | longest-word-in-dictionary|è¯å…¸ä¸­æœ€é•¿çš„å•è¯
+721 | accounts-merge|è´¦æˆ·åˆå¹¶
+722 | remove-comments|åˆ é™¤æ³¨é‡Š
+724 | find-pivot-index|å¯»æ‰¾æ•°ç»„çš„ä¸­å¿ƒç´¢å¼•
+725 | split-linked-list-in-parts|åˆ†éš”é“¾è¡¨
+726 | number-of-atoms|åŸå­çš„æ•°é‡
+728 | self-dividing-numbers|è‡ªé™¤æ•°
+729 | my-calendar-i|æˆ‘çš„æ—¥ç¨‹å®‰æ’è¡¨ I
+730 | count-different-palindromic-subsequences|ç»Ÿè®¡ä¸åŒå›æ–‡å­å­—ç¬¦ä¸²
+731 | my-calendar-ii|æˆ‘çš„æ—¥ç¨‹å®‰æ’è¡¨ II
+732 | my-calendar-iii|æˆ‘çš„æ—¥ç¨‹å®‰æ’è¡¨ III
+733 | flood-fill|å›¾åƒæ¸²æŸ“
+735 | asteroid-collision|è¡Œæ˜Ÿç¢°æ’
+736 | parse-lisp-expression|Lisp è¯­æ³•è§£æ
+738 | monotone-increasing-digits|å•è°ƒé€’å¢çš„æ•°å­—
+739 | daily-temperatures|æ¯æ—¥æ¸©åº¦
+740 | delete-and-earn|åˆ é™¤ä¸è·å¾—ç‚¹æ•°
+741 | cherry-pickup|æ‘˜æ¨±æ¡ƒ
+743 | network-delay-time|ç½‘ç»œå»¶è¿Ÿæ—¶é—´
+744 | find-smallest-letter-greater-than-target|å¯»æ‰¾æ¯”ç›®æ ‡å­—æ¯å¤§çš„æœ€å°å­—æ¯
+745 | prefix-and-suffix-search|å‰ç¼€å’Œåç¼€æœç´¢
+746 | min-cost-climbing-stairs|ä½¿ç”¨æœ€å°èŠ±è´¹çˆ¬æ¥¼æ¢¯
+747 | largest-number-at-least-twice-of-others|è‡³å°‘æ˜¯å…¶ä»–æ•°å­—ä¸¤å€çš„æœ€å¤§æ•°
+748 | shortest-completing-word|æœ€çŸ­å®Œæ•´è¯
+749 | contain-virus|éš”ç¦»ç—…æ¯’
+752 | open-the-lock|æ‰“å¼€è½¬ç›˜é”
+753 | cracking-the-safe|ç ´è§£ä¿é™©ç®±
+754 | reach-a-number|åˆ°è¾¾ç»ˆç‚¹æ•°å­—
+756 | pyramid-transition-matrix|é‡‘å­—å¡”è½¬æ¢çŸ©é˜µ
+757 | set-intersection-size-at-least-two| è®¾ç½®äº¤é›†å¤§å°è‡³å°‘ä¸º2
+761 | special-binary-string|ç‰¹æ®Šçš„äºŒè¿›åˆ¶åºåˆ—
+762 | prime-number-of-set-bits-in-binary-representation|äºŒè¿›åˆ¶è¡¨ç¤ºä¸­è´¨æ•°ä¸ªè®¡ç®—ç½®ä½
+763 | partition-labels|åˆ’åˆ†å­—æ¯åŒºé—´
+764 | largest-plus-sign|æœ€å¤§åŠ å·æ ‡å¿—
+765 | couples-holding-hands|æƒ…ä¾£ç‰µæ‰‹
+766 | toeplitz-matrix|æ‰˜æ™®åˆ©èŒ¨çŸ©é˜µ
+767 | reorganize-string|é‡æ„å­—ç¬¦ä¸²
+768 | max-chunks-to-make-sorted-ii|æœ€å¤šèƒ½å®Œæˆæ’åºçš„å— II
+769 | max-chunks-to-make-sorted|æœ€å¤šèƒ½å®Œæˆæ’åºçš„å—
+770 | basic-calculator-iv|åŸºæœ¬è®¡ç®—å™¨ IV
+771 | jewels-and-stones|å®çŸ³ä¸çŸ³å¤´
+773 | sliding-puzzle|æ»‘åŠ¨è°œé¢˜
+775 | global-and-local-inversions|å…¨å±€å€’ç½®ä¸å±€éƒ¨å€’ç½®
+777 | swap-adjacent-in-lr-string|åœ¨LRå­—ç¬¦ä¸²ä¸­äº¤æ¢ç›¸é‚»å­—ç¬¦
+778 | swim-in-rising-water|æ°´ä½ä¸Šå‡çš„æ³³æ± ä¸­æ¸¸æ³³
+779 | k-th-symbol-in-grammar|ç¬¬Kä¸ªè¯­æ³•ç¬¦å·
+780 | reaching-points|åˆ°è¾¾ç»ˆç‚¹
+781 | rabbits-in-forest|æ£®æ—ä¸­çš„å…”å­
+782 | transform-to-chessboard|å˜ä¸ºæ£‹ç›˜
+783 | minimum-distance-between-bst-nodes|äºŒå‰æœç´¢æ ‘ç»“ç‚¹æœ€å°è·ç¦»
+784 | letter-case-permutation|å­—æ¯å¤§å°å†™å…¨æ’åˆ—
+785 | is-graph-bipartite|åˆ¤æ–­äºŒåˆ†å›¾
+786 | k-th-smallest-prime-fraction|ç¬¬ K ä¸ªæœ€å°çš„ç´ æ•°åˆ†æ•°
+787 | cheapest-flights-within-k-stops|K ç«™ä¸­è½¬å†…æœ€ä¾¿å®œçš„èˆªç­
+788 | rotated-digits|æ—‹è½¬æ•°å­—
+789 | escape-the-ghosts|é€ƒè„±é˜»ç¢è€…
+790 | domino-and-tromino-tiling|å¤šç±³è¯ºå’Œæ‰˜ç±³è¯ºå¹³é“º
+791 | custom-sort-string|è‡ªå®šä¹‰å­—ç¬¦ä¸²æ’åº
+792 | number-of-matching-subsequences|åŒ¹é…å­åºåˆ—çš„å•è¯æ•°
+793 | preimage-size-of-factorial-zeroes-function|é˜¶ä¹˜å‡½æ•°åKä¸ªé›¶
+794 | valid-tic-tac-toe-state|æœ‰æ•ˆçš„äº•å­—æ¸¸æˆ
+795 | number-of-subarrays-with-bounded-maximum|åŒºé—´å­æ•°ç»„ä¸ªæ•°
+796 | rotate-string|æ—‹è½¬å­—ç¬¦ä¸²
+797 | all-paths-from-source-to-target|æ‰€æœ‰å¯èƒ½çš„è·¯å¾„
+798 | smallest-rotation-with-highest-score|å¾—åˆ†æœ€é«˜çš„æœ€å°è½®è°ƒ
+799 | champagne-tower|é¦™æ§Ÿå¡”
+801 | minimum-swaps-to-make-sequences-increasing|ä½¿åºåˆ—é€’å¢çš„æœ€å°äº¤æ¢æ¬¡æ•°
+802 | find-eventual-safe-states|æ‰¾åˆ°æœ€ç»ˆçš„å®‰å…¨çŠ¶æ€
+803 | bricks-falling-when-hit|æ‰“ç –å—
+804 | unique-morse-code-words|å”¯ä¸€æ‘©å°”æ–¯å¯†ç è¯
+805 | split-array-with-same-average|æ•°ç»„çš„å‡å€¼åˆ†å‰²
+806 | number-of-lines-to-write-string|å†™å­—ç¬¦ä¸²éœ€è¦çš„è¡Œæ•°
+807 | max-increase-to-keep-city-skyline|ä¿æŒåŸå¸‚å¤©é™…çº¿
+808 | soup-servings|åˆ†æ±¤
+809 | expressive-words|æƒ…æ„Ÿä¸°å¯Œçš„æ–‡å­—
+810 | chalkboard-xor-game|é»‘æ¿å¼‚æˆ–æ¸¸æˆ
+811 | subdomain-visit-count|å­åŸŸåè®¿é—®è®¡æ•°
+812 | largest-triangle-area|æœ€å¤§ä¸‰è§’å½¢é¢ç§¯
+813 | largest-sum-of-averages|æœ€å¤§å¹³å‡å€¼å’Œçš„åˆ†ç»„
+814 | binary-tree-pruning|äºŒå‰æ ‘å‰ªæ
+815 | bus-routes|å…¬äº¤è·¯çº¿
+816 | ambiguous-coordinates|æ¨¡ç³Šåæ ‡
+817 | linked-list-components|é“¾è¡¨ç»„ä»¶
+818 | race-car|èµ›è½¦
+819 | most-common-word|æœ€å¸¸è§çš„å•è¯
+820 | short-encoding-of-words|å•è¯çš„å‹ç¼©ç¼–ç 
+821 | shortest-distance-to-a-character|å­—ç¬¦çš„æœ€çŸ­è·ç¦»
+822 | card-flipping-game|ç¿»è½¬å¡ç‰‡æ¸¸æˆ
+823 | binary-trees-with-factors|å¸¦å› å­çš„äºŒå‰æ ‘
+824 | goat-latin|å±±ç¾Šæ‹‰ä¸æ–‡
+825 | friends-of-appropriate-ages|é€‚é¾„çš„æœ‹å‹
+826 | most-profit-assigning-work|å®‰æ’å·¥ä½œä»¥è¾¾åˆ°æœ€å¤§æ”¶ç›Š
+827 | making-a-large-island|æœ€å¤§äººå·¥å²›
+828 | unique-letter-string|ç‹¬ç‰¹å­—ç¬¦ä¸²
+829 | consecutive-numbers-sum|è¿ç»­æ•´æ•°æ±‚å’Œ
+830 | positions-of-large-groups|è¾ƒå¤§åˆ†ç»„çš„ä½ç½®
+831 | masking-personal-information|éšè—ä¸ªäººä¿¡æ¯
+832 | flipping-an-image|ç¿»è½¬å›¾åƒ
+833 | find-and-replace-in-string|å­—ç¬¦ä¸²ä¸­çš„æŸ¥æ‰¾ä¸æ›¿æ¢
+834 | sum-of-distances-in-tree|æ ‘ä¸­è·ç¦»ä¹‹å’Œ
+835 | image-overlap|å›¾åƒé‡å 
+836 | rectangle-overlap|çŸ©å½¢é‡å 
+837 | new-21-game|æ–°21ç‚¹
+838 | push-dominoes|æ¨å¤šç±³è¯º
+839 | similar-string-groups|ç›¸ä¼¼å­—ç¬¦ä¸²ç»„
+840 | magic-squares-in-grid|çŸ©é˜µä¸­çš„å¹»æ–¹
+841 | keys-and-rooms|é’¥åŒ™å’Œæˆ¿é—´
+842 | split-array-into-fibonacci-sequence|å°†æ•°ç»„æ‹†åˆ†æˆæ–æ³¢é‚£å¥‘åºåˆ—
+843 | guess-the-word|çŒœçŒœè¿™ä¸ªå•è¯
+844 | backspace-string-compare|æ¯”è¾ƒå«é€€æ ¼çš„å­—ç¬¦ä¸²
+845 | longest-mountain-in-array|æ•°ç»„ä¸­çš„æœ€é•¿å±±è„‰
+846 | hand-of-straights|ä¸€æ‰‹é¡ºå­
+847 | shortest-path-visiting-all-nodes|è®¿é—®æ‰€æœ‰èŠ‚ç‚¹çš„æœ€çŸ­è·¯å¾„
+848 | shifting-letters|å­—æ¯ç§»ä½
+849 | maximize-distance-to-closest-person|åˆ°æœ€è¿‘çš„äººçš„æœ€å¤§è·ç¦»
+850 | rectangle-area-ii|çŸ©å½¢é¢ç§¯ II
+851 | loud-and-rich|å–§é—¹å’Œå¯Œæœ‰
+852 | peak-index-in-a-mountain-array|å±±è„‰æ•°ç»„çš„å³°é¡¶ç´¢å¼•
+853 | car-fleet|è½¦é˜Ÿ
+854 | k-similar-strings|ç›¸ä¼¼åº¦ä¸º K çš„å­—ç¬¦ä¸²
+855 | exam-room|è€ƒåœºå°±åº§
+856 | score-of-parentheses|æ‹¬å·çš„åˆ†æ•°
+857 | minimum-cost-to-hire-k-workers|é›‡ä½£ K åå·¥äººçš„æœ€ä½æˆæœ¬
+858 | mirror-reflection|é•œé¢åå°„
+859 | buddy-strings|äº²å¯†å­—ç¬¦ä¸²
+860 | lemonade-change|æŸ æª¬æ°´æ‰¾é›¶
+861 | score-after-flipping-matrix|ç¿»è½¬çŸ©é˜µåçš„å¾—åˆ†
+862 | shortest-subarray-with-sum-at-least-k|å’Œè‡³å°‘ä¸º K çš„æœ€çŸ­å­æ•°ç»„
+863 | all-nodes-distance-k-in-binary-tree|äºŒå‰æ ‘ä¸­æ‰€æœ‰è·ç¦»ä¸º K çš„ç»“ç‚¹
+864 | shortest-path-to-get-all-keys|è·å–æ‰€æœ‰é’¥åŒ™çš„æœ€çŸ­è·¯å¾„
+865 | smallest-subtree-with-all-the-deepest-nodes|å…·æœ‰æ‰€æœ‰æœ€æ·±ç»“ç‚¹çš„æœ€å°å­æ ‘
+866 | prime-palindrome|å›æ–‡ç´ æ•°
+867 | transpose-matrix|è½¬ç½®çŸ©é˜µ
+868 | binary-gap|äºŒè¿›åˆ¶é—´è·
+869 | reordered-power-of-2|é‡æ–°æ’åºå¾—åˆ° 2 çš„å¹‚
+870 | advantage-shuffle|ä¼˜åŠ¿æ´—ç‰Œ
+871 | minimum-number-of-refueling-stops|æœ€ä½åŠ æ²¹æ¬¡æ•°
+872 | leaf-similar-trees|å¶å­ç›¸ä¼¼çš„æ ‘
+873 | length-of-longest-fibonacci-subsequence|æœ€é•¿çš„æ–æ³¢é‚£å¥‘å­åºåˆ—çš„é•¿åº¦
+874 | walking-robot-simulation|æ¨¡æ‹Ÿè¡Œèµ°æœºå™¨äºº
+875 | koko-eating-bananas|çˆ±åƒé¦™è•‰çš„ç‚ç‚
+876 | middle-of-the-linked-list|é“¾è¡¨çš„ä¸­é—´ç»“ç‚¹
+877 | stone-game|çŸ³å­æ¸¸æˆ
+878 | nth-magical-number|ç¬¬ N ä¸ªç¥å¥‡æ•°å­—
+879 | profitable-schemes|ç›ˆåˆ©è®¡åˆ’
+880 | decoded-string-at-index|ç´¢å¼•å¤„çš„è§£ç å­—ç¬¦ä¸²
+881 | boats-to-save-people|æ•‘ç”Ÿè‰‡
+882 | reachable-nodes-in-subdivided-graph|ç»†åˆ†å›¾ä¸­çš„å¯åˆ°è¾¾ç»“ç‚¹
+883 | projection-area-of-3d-shapes|ä¸‰ç»´å½¢ä½“æŠ•å½±é¢ç§¯
+884 | uncommon-words-from-two-sentences|ä¸¤å¥è¯ä¸­çš„ä¸å¸¸è§å•è¯
+885 | spiral-matrix-iii|èºæ—‹çŸ©é˜µ III
+886 | possible-bipartition|å¯èƒ½çš„äºŒåˆ†æ³•
+887 | super-egg-drop|é¸¡è›‹æ‰è½
+888 | fair-candy-swap|å…¬å¹³çš„ç³–æœäº¤æ¢
+889 | construct-binary-tree-from-preorder-and-postorder-traversal|æ ¹æ®å‰åºå’Œååºéå†æ„é€ äºŒå‰æ ‘
+890 | find-and-replace-pattern|æŸ¥æ‰¾å’Œæ›¿æ¢æ¨¡å¼
+891 | sum-of-subsequence-widths|å­åºåˆ—å®½åº¦ä¹‹å’Œ
+892 | surface-area-of-3d-shapes|ä¸‰ç»´å½¢ä½“çš„è¡¨é¢ç§¯
+893 | groups-of-special-equivalent-strings|ç‰¹æ®Šç­‰ä»·å­—ç¬¦ä¸²ç»„
+894 | all-possible-full-binary-trees|æ‰€æœ‰å¯èƒ½çš„æ»¡äºŒå‰æ ‘
+895 | maximum-frequency-stack|æœ€å¤§é¢‘ç‡æ ˆ
+896 | monotonic-array|å•è°ƒæ•°åˆ—
+897 | increasing-order-search-tree|é€’å¢é¡ºåºæŸ¥æ‰¾æ ‘
+898 | bitwise-ors-of-subarrays|å­æ•°ç»„æŒ‰ä½æˆ–æ“ä½œ
+899 | orderly-queue|æœ‰åºé˜Ÿåˆ—
+900 | rle-iterator|RLE è¿­ä»£å™¨
+901 | online-stock-span|è‚¡ç¥¨ä»·æ ¼è·¨åº¦
+902 | numbers-at-most-n-given-digit-set|æœ€å¤§ä¸º N çš„æ•°å­—ç»„åˆ
+903 | valid-permutations-for-di-sequence|DI åºåˆ—çš„æœ‰æ•ˆæ’åˆ—
+904 | fruit-into-baskets|æ°´æœæˆç¯®
+905 | sort-array-by-parity|æŒ‰å¥‡å¶æ’åºæ•°ç»„
+906 | super-palindromes|è¶…çº§å›æ–‡æ•°
+907 | sum-of-subarray-minimums|å­æ•°ç»„çš„æœ€å°å€¼ä¹‹å’Œ
+908 | smallest-range-i|æœ€å°å·®å€¼ I
+909 | snakes-and-ladders|è›‡æ¢¯æ£‹
+910 | smallest-range-ii|æœ€å°å·®å€¼ II
+911 | online-election|åœ¨çº¿é€‰ä¸¾
+913 | cat-and-mouse|çŒ«å’Œè€é¼ 
+914 | x-of-a-kind-in-a-deck-of-cards|å¡ç‰Œåˆ†ç»„
+915 | partition-array-into-disjoint-intervals|åˆ†å‰²æ•°ç»„
+916 | word-subsets|å•è¯å­é›†
+917 | reverse-only-letters|ä»…ä»…åè½¬å­—æ¯
+918 | maximum-sum-circular-subarray|ç¯å½¢å­æ•°ç»„çš„æœ€å¤§å’Œ
+919 | complete-binary-tree-inserter|å®Œå…¨äºŒå‰æ ‘æ’å…¥å™¨
+920 | number-of-music-playlists|æ’­æ”¾åˆ—è¡¨çš„æ•°é‡
+921 | minimum-add-to-make-parentheses-valid|ä½¿æ‹¬å·æœ‰æ•ˆçš„æœ€å°‘æ·»åŠ 
+922 | sort-array-by-parity-ii|æŒ‰å¥‡å¶æ’åºæ•°ç»„ II
+923 | 3sum-with-multiplicity|ä¸‰æ•°ä¹‹å’Œçš„å¤šç§å¯èƒ½
+924 | minimize-malware-spread|å°½é‡å‡å°‘æ¶æ„è½¯ä»¶çš„ä¼ æ’­
+925 | long-pressed-name|é•¿æŒ‰é”®å…¥
+926 | flip-string-to-monotone-increasing|å°†å­—ç¬¦ä¸²ç¿»è½¬åˆ°å•è°ƒé€’å¢
+927 | three-equal-parts|ä¸‰ç­‰åˆ†
+928 | minimize-malware-spread-ii|å°½é‡å‡å°‘æ¶æ„è½¯ä»¶çš„ä¼ æ’­ II
+929 | unique-email-addresses|ç‹¬ç‰¹çš„ç”µå­é‚®ä»¶åœ°å€
+930 | binary-subarrays-with-sum|å’Œç›¸åŒçš„äºŒå…ƒå­æ•°ç»„
+931 | minimum-falling-path-sum|ä¸‹é™è·¯å¾„æœ€å°å’Œ
+932 | beautiful-array|æ¼‚äº®æ•°ç»„
+933 | number-of-recent-calls|æœ€è¿‘çš„è¯·æ±‚æ¬¡æ•°
+934 | shortest-bridge|æœ€çŸ­çš„æ¡¥
+935 | knight-dialer|éª‘å£«æ‹¨å·å™¨
+936 | stamping-the-sequence|æˆ³å°åºåˆ—
+937 | reorder-log-files|é‡æ–°æ’åˆ—æ—¥å¿—æ–‡ä»¶
+938 | range-sum-of-bst|äºŒå‰æœç´¢æ ‘çš„èŒƒå›´å’Œ
+939 | minimum-area-rectangle|æœ€å°é¢ç§¯çŸ©å½¢
+940 | distinct-subsequences-ii|ä¸åŒçš„å­åºåˆ— II
+941 | valid-mountain-array|æœ‰æ•ˆçš„å±±è„‰æ•°ç»„
+942 | di-string-match|å¢å‡å­—ç¬¦ä¸²åŒ¹é…
+943 | find-the-shortest-superstring|æœ€çŸ­è¶…çº§ä¸²
+944 | delete-columns-to-make-sorted|åˆ åˆ—é€ åº
+945 | minimum-increment-to-make-array-unique|ä½¿æ•°ç»„å”¯ä¸€çš„æœ€å°å¢é‡
+946 | validate-stack-sequences|éªŒè¯æ ˆåºåˆ—
+947 | most-stones-removed-with-same-row-or-column|ç§»é™¤æœ€å¤šçš„åŒè¡Œæˆ–åŒåˆ—çŸ³å¤´
+948 | bag-of-tokens|ä»¤ç‰Œæ”¾ç½®
+949 | largest-time-for-given-digits|ç»™å®šæ•°å­—èƒ½ç»„æˆçš„æœ€å¤§æ—¶é—´
+950 | reveal-cards-in-increasing-order|æŒ‰é€’å¢é¡ºåºæ˜¾ç¤ºå¡ç‰Œ
+951 | flip-equivalent-binary-trees|ç¿»è½¬ç­‰ä»·äºŒå‰æ ‘
+952 | largest-component-size-by-common-factor|æŒ‰å…¬å› æ•°è®¡ç®—æœ€å¤§ç»„ä»¶å¤§å°
+953 | verifying-an-alien-dictionary|éªŒè¯å¤–æ˜Ÿè¯­è¯å…¸
+954 | array-of-doubled-pairs|äºŒå€æ•°å¯¹æ•°ç»„
+955 | delete-columns-to-make-sorted-ii|åˆ åˆ—é€ åº II
+956 | tallest-billboard|æœ€é«˜çš„å¹¿å‘Šç‰Œ
+957 | prison-cells-after-n-days|N å¤©åçš„ç‰¢æˆ¿
+958 | check-completeness-of-a-binary-tree|äºŒå‰æ ‘çš„å®Œå…¨æ€§æ£€éªŒ
+959 | regions-cut-by-slashes|ç”±æ–œæ åˆ’åˆ†åŒºåŸŸ
+960 | delete-columns-to-make-sorted-iii|åˆ åˆ—é€ åº III
+961 | n-repeated-element-in-size-2n-array|é‡å¤ N æ¬¡çš„å…ƒç´ 
+962 | maximum-width-ramp|æœ€å¤§å®½åº¦å¡
+963 | minimum-area-rectangle-ii|æœ€å°é¢ç§¯çŸ©å½¢ II
+964 | least-operators-to-express-number|è¡¨ç¤ºæ•°å­—çš„æœ€å°‘è¿ç®—ç¬¦
+965 | univalued-binary-tree|å•å€¼äºŒå‰æ ‘
+966 | vowel-spellchecker|å…ƒéŸ³æ‹¼å†™æ£€æŸ¥å™¨
+967 | numbers-with-same-consecutive-differences|è¿ç»­å·®ç›¸åŒçš„æ•°å­—
+968 | binary-tree-cameras|ç›‘æ§äºŒå‰æ ‘
+969 | pancake-sorting|ç…é¥¼æ’åº
+970 | powerful-integers|å¼ºæ•´æ•°
+971 | flip-binary-tree-to-match-preorder-traversal|ç¿»è½¬äºŒå‰æ ‘ä»¥åŒ¹é…å…ˆåºéå†
+972 | equal-rational-numbers|ç›¸ç­‰çš„æœ‰ç†æ•°
+973 | k-closest-points-to-origin|æœ€æ¥è¿‘åŸç‚¹çš„ K ä¸ªç‚¹
+974 | subarray-sums-divisible-by-k|å’Œå¯è¢« K æ•´é™¤çš„å­æ•°ç»„
+975 | odd-even-jump|å¥‡å¶è·³
+976 | largest-perimeter-triangle|ä¸‰è§’å½¢çš„æœ€å¤§å‘¨é•¿
+977 | squares-of-a-sorted-array|æœ‰åºæ•°ç»„çš„å¹³æ–¹
+978 | longest-turbulent-subarray|æœ€é•¿æ¹æµå­æ•°ç»„
+979 | distribute-coins-in-binary-tree|åœ¨äºŒå‰æ ‘ä¸­åˆ†é…ç¡¬å¸
+980 | unique-paths-iii|ä¸åŒè·¯å¾„ III
+981 | time-based-key-value-store|åŸºäºæ—¶é—´çš„é”®å€¼å­˜å‚¨
+982 | triples-with-bitwise-and-equal-to-zero|æŒ‰ä½ä¸ä¸ºé›¶çš„ä¸‰å…ƒç»„
+983 | minimum-cost-for-tickets|æœ€ä½ç¥¨ä»·
+984 | string-without-aaa-or-bbb|ä¸å« AAA æˆ– BBB çš„å­—ç¬¦ä¸²
+985 | sum-of-even-numbers-after-queries|æŸ¥è¯¢åçš„å¶æ•°å’Œ
+986 | interval-list-intersections|åŒºé—´åˆ—è¡¨çš„äº¤é›†
+987 | vertical-order-traversal-of-a-binary-tree|äºŒå‰æ ‘çš„å‚åºéå†
+988 | smallest-string-starting-from-leaf|ä»å¶ç»“ç‚¹å¼€å§‹çš„æœ€å°å­—ç¬¦ä¸²
+989 | add-to-array-form-of-integer|æ•°ç»„å½¢å¼çš„æ•´æ•°åŠ æ³•
+990 | satisfiability-of-equality-equations|ç­‰å¼æ–¹ç¨‹çš„å¯æ»¡è¶³æ€§
+991 | broken-calculator|åäº†çš„è®¡ç®—å™¨
+992 | subarrays-with-k-different-integers|K ä¸ªä¸åŒæ•´æ•°çš„å­æ•°ç»„
+993 | cousins-in-binary-tree|äºŒå‰æ ‘çš„å ‚å…„å¼ŸèŠ‚ç‚¹
+994 | rotting-oranges|è…çƒ‚çš„æ©˜å­
+995 | minimum-number-of-k-consecutive-bit-flips|K è¿ç»­ä½çš„æœ€å°ç¿»è½¬æ¬¡æ•°
+996 | number-of-squareful-arrays|æ­£æ–¹å½¢æ•°ç»„çš„æ•°ç›®
+997 | find-the-town-judge|æ‰¾åˆ°å°é•‡çš„æ³•å®˜
+998 | maximum-binary-tree-ii|æœ€å¤§äºŒå‰æ ‘ II
+999 | available-captures-for-rook|è½¦çš„å¯ç”¨æ•è·é‡
+1000 | minimum-cost-to-merge-stones|åˆå¹¶çŸ³å¤´çš„æœ€ä½æˆæœ¬
+1001 | grid-illumination|ç½‘æ ¼ç…§æ˜
+1002 | find-common-characters|æŸ¥æ‰¾å¸¸ç”¨å­—ç¬¦
+1003 | check-if-word-is-valid-after-substitutions|æ£€æŸ¥æ›¿æ¢åçš„è¯æ˜¯å¦æœ‰æ•ˆ
+1004 | max-consecutive-ones-iii|æœ€å¤§è¿ç»­1çš„ä¸ªæ•° III
+1005 | maximize-sum-of-array-after-k-negations|K æ¬¡å–ååæœ€å¤§åŒ–çš„æ•°ç»„å’Œ
+1006 | clumsy-factorial|ç¬¨é˜¶ä¹˜
+1007 | minimum-domino-rotations-for-equal-row|è¡Œç›¸ç­‰çš„æœ€å°‘å¤šç±³è¯ºæ—‹è½¬
+1008 | construct-binary-search-tree-from-preorder-traversal|å…ˆåºéå†æ„é€ äºŒå‰æ ‘
+1009 | complement-of-base-10-integer|åè¿›åˆ¶æ•´æ•°çš„åç 
+1010 | pairs-of-songs-with-total-durations-divisible-by-60|æ€»æŒç»­æ—¶é—´å¯è¢« 60 æ•´é™¤çš„æ­Œæ›²
+1011 | capacity-to-ship-packages-within-d-days|åœ¨ D å¤©å†…é€è¾¾åŒ…è£¹çš„èƒ½åŠ›
+1012 | numbers-with-repeated-digits|è‡³å°‘æœ‰ 1 ä½é‡å¤çš„æ•°å­—
+1013 | partition-array-into-three-parts-with-equal-sum|å°†æ•°ç»„åˆ†æˆå’Œç›¸ç­‰çš„ä¸‰ä¸ªéƒ¨åˆ†
+1014 | best-sightseeing-pair|æœ€ä½³è§‚å…‰ç»„åˆ
+1015 | smallest-integer-divisible-by-k|å¯è¢« K æ•´é™¤çš„æœ€å°æ•´æ•°
+1016 | binary-string-with-substrings-representing-1-to-n|å­ä¸²èƒ½è¡¨ç¤ºä» 1 åˆ° N æ•°å­—çš„äºŒè¿›åˆ¶ä¸²
+1017 | convert-to-base-2|è´ŸäºŒè¿›åˆ¶è½¬æ¢
+1018 | binary-prefix-divisible-by-5|å¯è¢« 5 æ•´é™¤çš„äºŒè¿›åˆ¶å‰ç¼€
+1019 | next-greater-node-in-linked-list|é“¾è¡¨ä¸­çš„ä¸‹ä¸€ä¸ªæ›´å¤§èŠ‚ç‚¹
+1020 | number-of-enclaves|é£åœ°çš„æ•°é‡

@@ -1,4 +1,4 @@
-#coding=gbk
+#coding=utf-8
 import re
 import os
 import urllib.parse
@@ -45,7 +45,7 @@ cwd = os.getcwd()
 
 
 
-getName =input("请输入题号")
+getName =input("Plz Input the Question idx")
 getName = getName.strip()
 title = data[getName].ch_name.replace(' ','_').rstrip()
 
@@ -59,7 +59,7 @@ dirname = os.path.join(dirname,newpath)
 if os.path.isdir(dirname):
    print("the dir has excited")
 else :
-    print("将在建立以下目录：")
+    print("Creating the dir as follow:")
     print(dirname)
     os.mkdir(dirname)
     filename = os.path.join(dirname,title+'.md')
@@ -71,6 +71,6 @@ else :
     F.write("    LeetCode   ")
     F.write(data[getName].ch_name +'   |    ' +data[getName].name+'\n')
     F.write("\n*/\n")
-    F.write("\n\n\n##**思路：** \n\n### **ac_code**\n```c\n\n```")
+    F.write("\n\n\n##**鎬濊矾** \n\n### **ac_code**\n```c\n\n```")
     F.close()
     os.system("typora "+filename)
