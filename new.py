@@ -21,7 +21,7 @@ data ={}
 
 def readData(data):
     l = []
-    with open('abc.txt', 'r') as f:
+    with open('abc.txt', 'r',encoding='UTF-8') as f:
         l =f.readlines()
         for i in l:
             i.rstrip()
@@ -30,7 +30,7 @@ def readData(data):
             node.ID = ll[0]
             node.name = ll[1]
             node.ch_name = ll[2]
-            #node.show()
+            node.show()
             data[node.ID.strip()] =  node
 
 def getdirname(idx):
@@ -64,13 +64,13 @@ else :
     os.mkdir(dirname)
     filename = os.path.join(dirname,title+'.md')
     print(filename)
-    F =open(filename,'x')
+    F =open(filename,'x',encoding='UTF-8')
     F.write("![](https://github.com/Sologala/SomeThings/blob/master/face.jpg?raw=true)\n")
     F.write("/*\n")
     F.write("    Sologala   @github    https://github.com/Sologala/LeetCode.git\n")
     F.write("    LeetCode   ")
     F.write(data[getName].ch_name +'   |    ' +data[getName].name+'\n')
     F.write("\n*/\n")
-    F.write("\n\n\n##**思路** \n\n### **ac_code**\n```c\n\n```")
+    F.write("\n\n\n##**Solution** \n\n### **ac_code**\n```c\n\n```")
     F.close()
     os.system("typora "+filename)
