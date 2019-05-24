@@ -1,4 +1,4 @@
-1 | two-sum|两数之和
+﻿1 | two-sum|两数之和
 2 | add-two-numbers|两数相加
 3 | longest-substring-without-repeating-characters|无重复字符的最长子串
 4 | median-of-two-sorted-arrays|寻找两个有序数组的中位数
@@ -850,3 +850,4 @@
 1018 | binary-prefix-divisible-by-5|可被 5 整除的二进制前缀
 1019 | next-greater-node-in-linked-list|链表中的下一个更大节点
 1020 | number-of-enclaves|飞地的数量
+1025 | divisor-game|除数博弈
