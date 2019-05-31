@@ -30,7 +30,7 @@ def readData(data):
             node.ID = ll[0]
             node.name = ll[1]
             node.ch_name = ll[2]
-            node.show()
+            #node.show()
             data[node.ID.strip()] =  node
 
 def getdirname(idx):
@@ -45,7 +45,7 @@ cwd = os.getcwd()
 
 
 
-getName =input("Plz Input the Question idx")
+getName =input("Plz Input the Question idx\n")
 getName = getName.strip()
 title = data[getName].ch_name.replace(' ','_').rstrip()
 
@@ -55,15 +55,12 @@ dirname = os.path.join(cwd,idxDirName)
 newpath = '['+ getName.zfill(4) + ']' +title
 dirname = os.path.join(dirname,newpath)
 
-
+filename = os.path.join(dirname,title+'.md')
 if os.path.isdir(dirname):
    print("the dir has excited")
 else :
     print("Creating the dir as follow:")
-    print(dirname)
     os.mkdir(dirname)
-    filename = os.path.join(dirname,title+'.md')
-    print(filename)
     F =open(filename,'x',encoding='UTF-8')
     F.write("![](https://github.com/Sologala/SomeThings/blob/master/face.jpg?raw=true)\n")
     F.write("/*\n")
@@ -73,4 +70,4 @@ else :
     F.write("\n*/\n")
     F.write("\n\n\n##**Solution** \n\n### **ac_code**\n```c\n\n```")
     F.close()
-    os.system("typora "+filename)
+os.system("typora "+filename)
