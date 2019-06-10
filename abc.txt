@@ -851,3 +851,4 @@
 1019 | next-greater-node-in-linked-list|链表中的下一个更大节点
 1020 | number-of-enclaves|飞地的数量
 1025 | divisor-game|除数博弈
+1034 | coloring-a-border|边框着色
