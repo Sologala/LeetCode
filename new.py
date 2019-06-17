@@ -68,6 +68,6 @@ else :
     print(data[getName].ch_name +'     |    ' +data[getName].name)
     F.write("   "+"["+getName+']'+data[getName].ch_name +'     |    ' +data[getName].name+'\n')
     F.write("\n*/\n")
-    F.write("\n\n\n##**Solution** \n\n### **ac_code**\n```c\n\n```")
+    F.write("\n\n\n## **Solution** \n\n### **ac_code**\n```c\n\n```")
     F.close()
 os.system("typora "+filename)
