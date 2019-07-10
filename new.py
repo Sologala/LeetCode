@@ -62,7 +62,7 @@ else :
     print("Creating the dir as follow:")
     os.mkdir(dirname)
     F =open(filename,'x',encoding='UTF-8')
-    F.write("![](https://github.com/Sologala/SomeThings/blob/master/face.jpg?raw=true)\n\n")
+    F.write("![face.jpg](https://pic.leetcode-cn.com/5f44c38cfca16ba4f3886e1c9e298c5ab18a215dc25e965ec357a430e783b3af-face.jpg)\n\n")
     F.write("/*\n")
     F.write("    Sologala   @github    https://github.com/Sologala/LeetCode.git\n\n")
     print(data[getName].ch_name +'     |    ' +data[getName].name)
