@@ -19,18 +19,24 @@ class seqNode:
 data ={}
 
 def readData(data):
+    daat = {}
     l = []
     with open('abc.txt', 'r',encoding='UTF-8') as f:
         l =f.readlines()
         for i in l:
+            if len(i) == 0:
+                continue
             i.rstrip()
             ll = i.split('|')
+            if len(ll) < 3:
+                continue
             node = seqNode()
             node.ID = ll[0]
             node.name = ll[1]
             node.ch_name = ll[2]
             #node.show()
             data[node.ID.strip()] =  node
+
 
 def getdirname(idx):
     idx =int(idx)
@@ -46,6 +52,13 @@ cwd = os.getcwd()
 
 getName =input("Plz Input the Question idx\n")
 getName = getName.strip()
+if getName not in data.keys():
+    EnName= input("\t没有该题的信息，请输入英文题目\n")
+    ChName= input("\t没有该题的信息，请输入中文题目\n")
+    with open('abc.txt', 'a+',encoding='UTF-8') as f:
+        f.write('\n'+getName+' | '+EnName + '|' + ChName+'\n')
+    readData(data)
+
 title = data[getName].ch_name.replace(' ','_').rstrip()
 
 idxDirName = getdirname(getName)
