@@ -2,6 +2,8 @@
 import re
 import os
 import shutil
+import platform
+#
 
 #duqu shuju 
 
@@ -48,6 +50,8 @@ def getdirname(idx):
 readData(data)
 cwd = os.getcwd()
 
+systype = platform.system()
+print(systype)
 
 
 getName =input("Plz Input the Question idx\n")
@@ -82,4 +86,7 @@ else :
     F.write("\n*/\n")
     F.write("\n\n\n## **Solution** \n\n### **ac_code**\n```c\n\n```")
     F.close()
-os.system("typora "+filename)
+if systype == 'Darwin' :
+    os.system('open /Applications/Typora.app '+filename)
+elif systype == 'Windows':
+    os.system("typora "+filename) 
