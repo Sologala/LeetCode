@@ -87,6 +87,7 @@ else :
     F.write("\n\n\n## **Solution** \n\n### **ac_code**\n```c\n\n```")
     F.close()
 if systype == 'Darwin' :
-    os.system('open /Applications/Typora.app '+filename)
+    #os.system('open /Applications/Typora.app --args '+filename)
+    os.system('open -a /Applications/Typora.app "'+filename+'"')
 elif systype == 'Windows':
     os.system("typora "+filename) 
