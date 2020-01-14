@@ -857,3 +857,6 @@
 1104 | path-in-zigzag-labelled-binary-tree|二叉树寻路
 1078 | orrurrences-after-bigram|Bigram分词
 1145 | Binary_Tree_Coloring_Game|二叉树着色游戏
+1237 | Find_Positive_Integer_Solution_for_a_Given_Equation|找出给定方程的正整数
+
+1208 | Get_Equal_Substrings_Within_Budget|尽可能使字符串相等
