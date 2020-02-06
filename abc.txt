@@ -862,3 +862,5 @@
 1208 | Get_Equal_Substrings_Within_Budget|尽可能使字符串相等
 
 1111 | Maximum_Nesting_Depth_of_Two_Valid_Parentheses_Strings|有效括号的嵌套深度
+
+1304 | Find_N_Unique_Integers_Sum_up_to_Zero|和为零的N个唯一整数
