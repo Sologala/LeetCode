@@ -41,6 +41,9 @@ def readData(data):
 
 
 def getdirname(idx):
+    for c in idx:
+        if c > '9' or c < '0':
+            return 'Other'
     idx =int(idx)
     idx = int(idx/100)
     pathname = str(idx*100)+"~"+str((idx+1)*100)
@@ -90,7 +93,7 @@ else :
     print(data[getName].ch_name +'     |    ' +data[getName].name)
     F.write("[`"+getName+'`]**'+data[getName].ch_name.strip()+'**|**' +data[getName].name.strip()+'**\n')
     F.write("\n*/\n")
-    F.write("\n\n\n## **Solution** \n\n### **ac_code**\n```c\n\n```")
+    F.write("\n\n\n## **Solution** \n\n### **ac_code**\n```python\n\n```")
     F.close()
 if systype == 'Darwin' :
     #os.system('open /Applications/Typora.app --args '+filename)
