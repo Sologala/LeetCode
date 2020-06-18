@@ -872,3 +872,5 @@ LCP 03 | LCP_03._Programmable_Robot|LCP_03._机器人大冒险
 面试题64 | 面试题64._求1+2+…+n|面试题64._求1+2+…+n_LCOF
 
 面试题46 | 面试题46._把数字翻译成字符串_LCOF|面试题46._把数字翻译成字符串_LCOF
+
+1028 | 1028._Recover_a_Tree_From_Preorder_Traversal|1028._从先序遍历还原二叉树

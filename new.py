@@ -60,11 +60,11 @@ print(systype)
 getName =input("Plz Input the Question idx\n")
 getName = getName.strip()
 if getName not in data.keys():
-    EnName= input("\t没有该题的信息，请输入英文题目\n")
-    EnName = EnName.strip().replace(' ','_')
     ChName= input("\t没有该题的信息，请输入中文题目\n")
     ChName = ChName.strip().replace(' ','_')
-    with open('abc.txt', 'a+',encoding='UTF-8') as f:
+    EnName= input("\t没有该题的信息，请输入英文题目\n")
+    EnName = EnName.strip().replace(' ','_')
+   with open('abc.txt', 'a+',encoding='UTF-8') as f:
         f.write('\n'+getName+' | '+EnName + '|' + ChName+'\n')
     readData(data)
 
