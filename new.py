@@ -64,7 +64,7 @@ if getName not in data.keys():
     ChName = ChName.strip().replace(' ','_')
     EnName= input("\t没有该题的信息，请输入英文题目\n")
     EnName = EnName.strip().replace(' ','_')
-   with open('abc.txt', 'a+',encoding='UTF-8') as f:
+    with open('abc.txt', 'a+',encoding='UTF-8') as f:
         f.write('\n'+getName+' | '+EnName + '|' + ChName+'\n')
     readData(data)
 
